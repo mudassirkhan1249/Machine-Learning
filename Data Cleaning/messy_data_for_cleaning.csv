@@ -1,0 +1,1021 @@
+ID,Name,Age,Salary,Email,Join_Date,Department,Performance_Score,Comments
+524,Sarah Jones,41,60945,tom.taylor@gmail.com,2020-09-23,Engineering,1,Team player
+603,Sarah Smith,56,63708,lisa.smith@gmail.com,2020-10-26,HR,3,Good employee
+527,john jones,64,108059,emma.smith@hotmail.com,,Engineering,1,Needs training in Python and SQL
+32,Emma Khan,50,98506,sarah.wilson@outlook.com,08-15-2016,Engineering,3,Needs training in Python and SQL
+617,Emma Khan,21,106812,chris.taylor@hotmail.com,,Marketing,1,N/A
+586,Chris Lee,59,46224,lisa.lee@yahoo.com,2022-11-13,Operations,5,PROMOTION RECOMMENDED
+445,John Taylor,62,,tom.wilson@outlook.com,2023-04-28,Sales,3,Excellent performer!!!!
+733,Anna Wilson,-10,87923,chris.taylor@gmail.com,2021-11-19,HR,4,  
+77,David Brown,56,91580,chris.wilson@yahoo.com,2015-02-21,Marketing,1,N/A
+412,Lisa Wilson,52,110149,anna.brown@hotmail.com,2021-06-26,IT,1,Excellent performer!!!!
+569,,31,70593,lisa.lee@gmail.com,2024-03-21,Sales,1,Team player
+71,John Brown,61,51514,priya.miller@company.com,2015-09-19,HR,1,LATE COmiNG   
+676,Chris Miller,-8,76900,,2024-02-07,HR,Average,   trailing spaces   
+102,Emma Miller,55,81157,david.smith@outlook.com,2016-03-29,HR,4,ok
+895,Lisa Gupta,50,$80650,sarah.brown@outlook.com,2024-06-16,HR,2,   trailing spaces   
+926,Tom Khan,19,35122,sarah.smith@hotmail.com,,Operations,3,⭐ Good performer ⭐
+630,Anna Wilson,34,"113,335",priya.davis@hotmail.com,,HR,4,Communication issues
+300,Chris Taylor,18,52058,emma.miller@hotmail.com,2021-04-26,Engineering,5,--
+925,Emma Gupta,65,90319,mike.jones@hotmail.com,2023-04-20,IT,2,LATE COmiNG   
+425,Priya Davis,48,58796,sarah.jones@gmail.com,01-16-2019,HR,1,Excellent performer!!!!
+97,Anna Lee,53,34899,tom.taylor@yahoo.com,2020-07-03,Finance,1,--
+901,,37,,john.davis@gmail.com,2021-12-08,Engineering,2,--
+261,Anna  Khan,21,60781,tom.lee@company.com,2019-07-26,Operations,Average,Needs training in Python and SQL
+351,Chris Miller,58,40378,john.wilson@yahoo.com,2016-07-28,Sales,5,LATE COmiNG   
+529,Tom Gupta,23,105073,david.jones@outlook.com,2016-09-13,Finance,5,ok
+695,Anna Lee,22,,lisa.khan@company.com,2021-01-13,sales,,Team player
+362,David Gupta,48,76590,anna.lee@gmail.com,2022-02-11,sales,5,Needs training in Python and SQL
+612,John Brown,22,42942,david.miller@hotmail.com,2019-06-01,Finance,5,Good employee
+885,Anna Brown,32,82870,mike.gupta@gmail.com,,Sales,4,Needs training in Python and SQL
+721,Priya Taylor,52,62821,lisa.wilson@company.com,2017-05-31,Finance,4,  
+487,Tom Jones,45,51538,david.lee,2016-06-23,Marketing,4,LATE COmiNG   
+694,John Miller,55,118864,lisa.taylor@hotmail.com,2022-11-17,Operations,2,⭐ Good performer ⭐
+812,Lisa Brown,55,86300,mike.smith@hotmail.com,2015-06-20,HR,2,   trailing spaces   
+810,Chris Wilson,25,55124,,2023-08-24,IT,5,  
+409,John Brown,37,68112,lisa.smith@yahoo.com,2023-08-24,Sales,2,PROMOTION RECOMMENDED
+741,Anna Smith,32,111789,lisa.davis@hotmail.com,11/07/2019,IT,3,Needs training in Python and SQL
+214,Anna Davis,26,54083,tom.smith@company.com,2015-09-23,HR,2,ok
+590,Chris Brown,61,98387,tom.miller@gmail.com,2023-03-20,Finance,4,⭐ Good performer ⭐
+366,Chris Jones,52,53882,priya.khan@company.com,2020-10-04,IT,3,Excellent performer!!!!
+200,David Gupta,39,51001,priya.miller@yahoo.com,2018-05-25,Finance,1,N/A
+637,Emma Miller,50,51939,,2016-12-05,Finance,3,Good employee
+629,Lisa Miller,-9,88455,mike.davis,2023-10-16,HR,1,Excellent performer!!!!
+829,Mike Smith,36,94853,emma.lee@yahoo.com,2023-01-03,HR,4,ok
+353,Chris Lee,36,46749,priya@@outlook.com,2024-01-15,Marketing,2,Excellent performer!!!!
+330,Tom Davis,21,82742,mike.smith@yahoo.com,2023-09-11,IT,3,N/A
+982,Tom Miller,31,42661,emma.jones@hotmail.com,2023-12-31,Operations,7,ok
+838,Chris Davis,44,41109,emma.smith@gmail.com,2024-04-08,IT,4,N/A
+245,Sarah Davis,49,108654,lisa.lee@outlook.com,2021-07-08,Finance,1,LATE COmiNG   
+287,Lisa Jones,-8,116169,john.lee@gmail.com,2019-06-11,Operations,2,Good employee
+290,Mike Lee,27,-37998,david.brown@outlook.com,2020-10-16,Engineering,1,  
+599,Priya Smith,40,94418,john.gupta@outlook.com,2016-03-01,Operations,Poor,   trailing spaces   
+762,Chris Wilson,53,49321,sarah.jones@hotmail.com,2024-08-20,Marketing,2,LATE COmiNG   
+60,Mike Wilson,64,56467,emma.brown@yahoo.com,2018-02-07,IT,1,⭐ Good performer ⭐
+623,Chris Miller,29,83411,john.lee@hotmail.com,16/08/2019,IT,3,Needs training in Python and SQL
+319,CHRIS KHAN,47,116005,emma.miller@gmail.com,2015-07-08,IT,5,
+11,Anna Davis,62,118280,mike.miller@yahoo.com,2016-09-07,Operations,4,PROMOTION RECOMMENDED
+238,Sarah Jones,26,98922,john.brown@gmail.com,2021-10-31,IT,Good,Needs improvement
+332,Priya Brown,51,69131,,2016-09-08,Sales,2,Good employee
+706,Priya Lee,63,35697,priya.miller@hotmail.com,2020-02-29,Marketing,1,   trailing spaces   
+87,David Wilson,46,,sarah.wilson@outlook.com,2015-12-07,IT,2,ok
+804,Anna  Smith,41,61476,chris.davis@yahoo.com,2019-11-18,Marketing,5,⭐ Good performer ⭐
+175,Anna Wilson,18,58574,chris.khan@outlook.com,2018-10-23,Finance,2,
+313,Chris Miller,23,50155,david.brown@gmail.com,2023-12-11,HR,4,Team player
+463,Sarah Gupta,55,87870,lisa.davis@hotmail.com,05-02-2020,Engineering,2,Needs training in Python and SQL
+219,,25,62716,anna.brown@company.com,2018-12-31,Engineering,5,  
+31,Anna Khan,18,43785,,23/01/2016,Engineering,4,Good employee
+548,Sarah Lee,167,46958,john.brown@company.com,2023-03-24,Engineering,4,  
+665,Mike Khan,52,100601,chris.lee@outlook.com,04-04-2023,Marketing,2,N/A
+55,LISA JONES,23,119024,anna.smith@gmail.com,2017-09-25,Engineering,5,⭐ Good performer ⭐
+24,,40,88190,anna.wilson,2018-04-16,Sales,5,Good employee
+257,Lisa Lee,33,80265,mike.wilson@gmail.com,2023-09-20,Engineering,1,
+451,Tom Khan,36,103010,emma.wilson@yahoo.com,2024-06-08,IT,5,   trailing spaces   
+4,Chris Miller,-3,55106,lisa.gupta@gmail.com,2020-08-18,HR,,Team player
+834,Priya Khan,58,60721,john.khan,04-04-2018,finance,1,PROMOTION RECOMMENDED
+553,Emma Lee,57,78409,,2017-09-20,sales,3,Excellent performer!!!!
+639,,43,93201,anna.gupta@company.com,11/12/2018,HR,1,--
+478,Sarah Davis,26,86206,lisa.jones@hotmail.com,2023-05-03,HR,1,Excellent performer!!!!
+957,Priya Taylor,62,87373,mike.gupta@yahoo.com,2022-06-25,Sales,3,Excellent performer!!!!
+663,Tom Lee,22,100533,lisa.jones@yahoo.com,2018-12-20,Operations,5,LATE COmiNG   
+519,Tom Davis,64,64046,sarah.davis@yahoo.com,2018-06-11,IT,4,
+961,Priya Lee,41,68554,lisa.davis@gmail.com,2023-12-25,HR,3,--
+954,Emma Wilson,38,90849,chris.khan@company.com,2020-10-20,Engineering,4,ok
+980,Priya Taylor,62,55185,sarah.gupta@outlook.com,2018-10-18,IT,4,Good employee
+576,,61,72626,priya.jones@gmail.com,2022-01-11,Sales,5,Excellent performer!!!!
+540,Chris Brown,44,107101,priya.miller@hotmail.com,2017-04-08,Engineering,4,N/A
+216,Chris Davis,54,82515,mike.miller@hotmail.com,2016-09-06,Sales,5,⭐ Good performer ⭐
+738,Chris Brown,55,82649,lisa.lee@company.com,2015-05-01,Sales,2,Needs improvement
+999,Emma Jones,28,$58647,,2015-03-23,Sales,4,LATE COmiNG   
+714,David Khan,63,85550,tom.smith@gmail.com,22/12/2018,HR,4,Excellent performer!!!!
+668,Priya Miller,-10,46176,david.smith@gmail.com,2015-12-03,Marketing,2,ok
+40,JOHN JONES,27,85666,priya.jones@hotmail.com,2015-06-06,Sales,5,Good employee
+232,Lisa  Taylor,61,90610,mike.miller@gmail.com,10/05/2021,IT,,Communication issues
+495,Mike Miller,40,69888,david.smith@outlook.com,,Engineering,5,⭐ Good performer ⭐
+705,Chris Davis,,94955,david.jones@gmail.com,2021-06-10,Operations,2,Excellent performer!!!!
+968,Sarah Jones,63,87941,emma.khan@gmail.com,2015-05-25,Engineering,4,ok
+67,tom brown,58,88006,john.lee,2021-09-19,HR,5,PROMOTION RECOMMENDED
+295,Sarah Khan,26,103512,anna.brown@yahoo.com,2024-08-08,IT,5,N/A
+68,John Davis,53,34306,john.jones@yahoo.com,2022-02-13,Marketing,2,--
+480,John Jones,27,97653,david.lee@outlook.com,2021-11-24,IT,,
+329,Lisa Miller,62,"57,292",priya.jones@hotmail.com,2015-10-31,HR,5,Needs training in Python and SQL
+236,David  Gupta,59,78224,john.wilson@gmail.com,2017-07-24,Marketing,Good,   trailing spaces   
+108,,29,110586,mike.lee@company.com,2021-09-20,Engineering,2,N/A
+984,Chris Wilson,25,51895,tom.lee@hotmail.com,2019-08-28,Engineering,3,⭐ Good performer ⭐
+347,Mike Brown,25,119946,lisa.miller,2019-01-23,Marketing,3,⭐ Good performer ⭐
+299,Anna Lee,49,67239,,2020-01-17,Sales,2,N/A
+644,Mike Smith,52,51157,anna.davis@outlook.com,22/07/2019,sales,4,N/A
+308,Lisa Taylor,31,73077,david.davis@gmail.com,2023-01-14,Finance,2,Needs training in Python and SQL
+855,David Taylor,28,101568,anna.miller@company.com,2020-01-14,operations,5,   trailing spaces   
+507,Priya Brown,18,,john.wilson@gmail.com,2024-01-19,Operations,Excellent,Good employee
+297,Mike Brown,34,49405,john.jones@outlook.com,09-28-2018,IT,2,Needs training in Python and SQL
+881,David Lee,25,31268,lisa.khan@outlook.com,2020-08-24,Marketing,1,N/A
+667,David  Brown,19,118029,sarah.lee@hotmail.com,2021-11-17,Sales,2,Excellent performer!!!!
+101,David Davis,26,71486,lisa.miller@outlook.com,06-09-2019,Operations,3,N/A
+89,Mike Jones,,86118,anna.khan@yahoo.com,2018-04-10,Sales,3,Communication issues
+64,Mike Wilson,32,34141,sarah@@company.com,,HR,5,N/A
+844,Chris Jones,44,86689,david.jones@gmail.com,2022-12-18,IT,5,Needs training in Python and SQL
+889,JOHN TAYLOR,35,48236,sarah.davis@outlook.com,06/04/2019,Sales,4,  
+140,Chris Lee,65,119824,chris.gupta@gmail.com,2024-10-22,IT,1,N/A
+758,Emma Smith,32,106614,priya.taylor@hotmail.com,2020-12-07,,6,
+616,Priya Taylor,22,-34297,emma.brown@outlook.com,2020-11-11,IT,1,⭐ Good performer ⭐
+500,John Wilson,43,88482,david.davis@company.com,2021-06-22,HR,1,Communication issues
+666,Emma Lee,46,,priya.smith@outlook.com,2024-12-13,Marketing,5,
+585,David Smith,45,70481,mike.lee@hotmail.com,2022-06-16,Operations,1,Communication issues
+110,Chris Smith,24,113288,sarah.wilson@outlook.com,2016-03-08,HR,1,⭐ Good performer ⭐
+917,Tom Lee,35,70673,john.lee@company.com,2021-11-14,Operations,1,Excellent performer!!!!
+651,Anna Khan,unknown,71720,,2016-11-21,Sales,,PROMOTION RECOMMENDED
+534,Chris Davis,52,49209,emma.miller@yahoo.com,2016-10-12,IT,4,Good employee
+446,Emma Smith,39,$86442,lisa.taylor@gmail.com,2022-07-01,Marketing,2,
+606,Sarah Lee,25,63496,mike.wilson@company.com,05-26-2024,HR,2,N/A
+137,Anna Wilson,30,112150,tom.wilson@outlook.com,2020-09-25,HR,5,  
+812,Lisa Brown,55,86300,mike.smith@hotmail.com,2015-06-20,HR,2,   trailing spaces   
+515,Anna Lee,53,61632,david.wilson@gmail.com,07-19-2017,HR,3,PROMOTION RECOMMENDED
+754,david brown,-1,93097,lisa.taylor@company.com,2015-03-25,Operations,2,Excellent performer!!!!
+159,John Miller,,37251,sarah.wilson@hotmail.com,2021-01-09,Finance,2,--
+311,Mike  Gupta,-10,78963,mike.davis@yahoo.com,2019-04-16,Sales,1,--
+328,Lisa Smith,44,82286,tom.davis@gmail.com,07-04-2016,Finance,3,Good employee
+559,Lisa Taylor,29,79081,lisa.khan@outlook.com,07-03-2019,Finance,3,   trailing spaces   
+936,David Taylor,41,50700,john.wilson@company.com,2018-10-15,Engineering,4,Needs improvement
+255,,47,72368,tom.khan,2024-08-28,Operations,4,ok
+276,Priya Lee,47,64131,chris.lee@gmail.com,31/08/2024,,1,PROMOTION RECOMMENDED
+902,Emma Gupta,53,94043,john.brown@outlook.com,2023-02-13,Operations,3,  
+185,Lisa Jones,29,78200,sarah.brown@outlook.com,2021-05-16,Engineering,2,--
+583,Tom Davis,24,"51,707",lisa.taylor@hotmail.com,2021-09-19,Marketing,3,N/A
+661,LISA SMITH,,102848,john.lee@outlook.com,2024-07-22,Engineering,3,N/A
+897,Tom Brown,27,89183,priya.lee@company.com,2016-10-21,Finance,2,Needs improvement
+210,David Gupta,26,76118,john.brown@company.com,2022-04-09,engineering,5,Needs improvement
+169,ANNA MILLER,,98846,sarah.jones@yahoo.com,2019-10-22,Marketing,2,  
+867,Mike Khan,27,97193,david.taylor@outlook.com,2019-06-06,operations,4,
+281,Sarah Lee,46,64500,sarah.gupta@yahoo.com,2020-08-17,Finance,5,N/A
+916,emma davis,,109129,sarah.davis@company.com,2017-08-31,Sales,1,--
+542,,20,106585,emma.davis@company.com,2020-11-07,Marketing,2,N/A
+56,Sarah Jones,58,69682,tom.khan,2015-07-20,Sales,2,N/A
+121,Tom Miller,197,75523,priya.brown@hotmail.com,2020-03-15,Marketing,1,
+555,John Lee,,83558,mike.jones@gmail.com,2019-05-21,HR,3,Team player
+26,David Khan,56,86093,emma.wilson@company.com,2018-05-04,Finance,5,LATE COmiNG   
+73,John Gupta,24,80997,tom.miller@outlook.com,2024-04-10,MARKETING,3,Needs improvement
+539,Anna Khan,54,$118712,sarah.wilson,2021-11-02,IT,5,   trailing spaces   
+45,Tom  Smith,26,109058,lisa.smith@yahoo.com,2022-02-21,Sales,1,⭐ Good performer ⭐
+498,Chris Khan,55,99178,john.davis@gmail.com,2024-08-14,Marketing,6,Needs improvement
+199,Anna Davis,35,60862,anna.wilson@company.com,2024-07-17,HR,3,Needs training in Python and SQL
+378,Priya Jones,42,31743,lisa.wilson@hotmail.com,2019-11-07,Sales,2,Team player
+315,Sarah  Gupta,28,116447,anna.miller@hotmail.com,2018-01-27,Human Resources,5,--
+719,Anna Lee,51,33148,emma@@outlook.com,2022-11-24,HR,1,ok
+209,Chris Davis,26,64205,mike.miller@gmail.com,2024-09-14,Operations,4,Communication issues
+722,David Miller,47,92072,priya.smith@gmail.com,2018-06-23,Operations,5,Communication issues
+919,Chris Wilson,54,90156,anna.miller@gmail.com,2016-09-19,,5,   trailing spaces   
+536,David Lee,39,"38,151",sarah.smith@yahoo.com,2024-08-19,Marketing,3,  
+696,John Khan,27,118832,emma.khan@company.com,2016-01-31,Engineering,5,  
+605,John Gupta,58,67401,chris.gupta@yahoo.com,2021-09-30,Operations,5,LATE COmiNG   
+591,john lee,64,92368,anna.davis@outlook.com,2017-10-27,Engineering,4,N/A
+291,Lisa Brown,63,,,2022-04-30,IT,2,Communication issues
+960,Mike Brown,,109559,lisa.smith@yahoo.com,2019-07-05,Sales,1,PROMOTION RECOMMENDED
+333,David Wilson,48,86670,tom.brown@yahoo.com,2021-06-09,HR,1,LATE COmiNG   
+211,Sarah Gupta,61,101791,tom.davis@company.com,2020-11-21,Finance,2,Communication issues
+343,David Gupta,32,86899,emma.miller@yahoo.com,2019-01-19,Operations,1,   trailing spaces   
+61,David Wilson,N/A,95260,mike.taylor,2015-07-07,Sales,3,--
+345,Anna Jones,,-27604,anna.gupta@company.com,2017-05-29,Engineering,5,Communication issues
+891,Mike Khan,46,109036,tom.lee@company.com,2017-07-11,Marketing,1,Team player
+712,Emma Gupta,29,33325,lisa.wilson@outlook.com,2020-05-06,HR,4,   trailing spaces   
+468,Anna Gupta,unknown,56462,emma.smith@company.com,,IT,1,Team player
+424,Emma Taylor,21,87424,tom.wilson@outlook.com,2024-08-13,Sales,1,  
+260,Sarah Davis,51,36830,chris.miller@outlook.com,2015-01-03,IT,3,
+781,Anna Brown,44,30484,john.lee@outlook.com,2020-07-31,Sales,2,Needs improvement
+406,Mike Miller,20,86595,priya.miller@gmail.com,2023-04-19,IT,1,LATE COmiNG   
+789,Emma Davis,47,102704,sarah.taylor@company.com,03-02-2024,Engineering,1,--
+768,,33,103328,,2021-09-22,Finance,2,
+484,anna wilson,61,97809,lisa.jones@gmail.com,2020-03-07,Operations,3,
+531,Priya Miller,unknown,62457,chris.miller@outlook.com,2023-12-22,Engineering,,Communication issues
+811,Chris Taylor,65,79054,chris.lee,2015-08-14,,1,Team player
+1000,,64,108494,tom.miller@gmail.com,2022-07-14,Sales,4,⭐ Good performer ⭐
+967,ANNA KHAN,51,118479,tom.wilson@gmail.com,2023-03-31,Sales,,Needs improvement
+111,Sarah Miller,37,39872,emma.gupta@company.com,2022-09-14,HR,5,   trailing spaces   
+996,Emma Gupta,,116240,lisa.jones@hotmail.com,2024-03-04,Marketing,1,Team player
+559,Lisa Taylor,29,79081,lisa.khan@outlook.com,07-03-2019,Finance,3,   trailing spaces   
+794,Chris Khan,N/A,67237,john.davis@yahoo.com,2024-05-29,IT,3,Needs training in Python and SQL
+937,Lisa Brown,54,112324,sarah.davis@hotmail.com,2019-06-22,HR,4,Communication issues
+920,Emma  Lee,26,30975,david.wilson@gmail.com,2024-11-11,sales,2,--
+943,Mike Gupta,21,$43791,emma.wilson@yahoo.com,2020-03-12,Marketing,2,N/A
+320,,41,89388,tom.khan@outlook.com,2019-05-17,HR,3,N/A
+517,Chris Lee,29,96227,anna.smith,03-04-2021,IT,4,   trailing spaces   
+450,Mike  Miller,47,36117,mike.gupta@company.com,2019-07-12,Sales,4,Good employee
+784,Chris Lee,23,73452,john.taylor@hotmail.com,2022-05-21,Marketing,4,ok
+594,TOM MILLER,29,32486,,2018-12-31,Marketing,1,   trailing spaces   
+910,Anna Brown,27,44515,tom.davis@yahoo.com,2021-04-27,Marketing,2,LATE COmiNG   
+744,Mike Taylor,30,111163,mike.lee@gmail.com,2020-04-27,MARKETING,5,Needs training in Python and SQL
+138,Lisa Jones,59,-36851,lisa.jones@outlook.com,2024-07-14,Engineering,,--
+800,Mike Miller,39,32751,emma.jones@company.com,2022-03-19,Marketing,1,Good employee
+934,Lisa Taylor,35,104529,anna@@gmail.com,2020-01-27,IT,1,Needs improvement
+823,Anna Taylor,36,51945,emma.smith@company.com,2020-11-16,Engineering,5,
+766,Emma Lee,47,118906,david.khan@hotmail.com,2018-11-15,Engineering,5,PROMOTION RECOMMENDED
+262,priya smith,46,76439,john.brown@outlook.com,2020-07-10,Marketing,4,
+568,John Jones,64,84732,,2022-05-29,Operations,,PROMOTION RECOMMENDED
+833,Emma Taylor,31,56607,lisa.davis@outlook.com,2022-09-24,Marketing,4,Needs improvement
+382,Mike Davis,37,69688,john.lee@gmail.com,,Engineering,1,  
+334,Anna Davis,56,70645,mike.khan@company.com,2015-12-27,Finance,5,Excellent performer!!!!
+537,Emma Wilson,18,47047,emma.jones@gmail.com,2024-06-15,IT,2,Needs improvement
+352,Lisa Jones,58,92601,john.taylor@company.com,08-10-2019,Operations,1,⭐ Good performer ⭐
+786,Emma Gupta,28,54149,david@@yahoo.com,2016-04-21,Marketing,4,Communication issues
+452,Tom Brown,56,49815,emma.miller@company.com,2018-08-08,Finance,1,Good employee
+79,Lisa Davis,53,81299,emma.smith@company.com,2019-12-26,Marketing,2,
+30,Anna Jones,52,118363,tom.brown@hotmail.com,2016-12-18,Sales,1,Needs training in Python and SQL
+713,Chris Davis,20,59573,john.davis@outlook.com,2016-08-28,Marketing,5,LATE COmiNG   
+278,Sarah Gupta,63,95432,anna.taylor@company.com,2024-03-23,HR,1,N/A
+248,Priya Khan,20,83546,priya.jones@gmail.com,10/11/2023,Finance,1,⭐ Good performer ⭐
+658,Emma Lee,58,30268,anna.miller@hotmail.com,2017-03-24,Operations,1,Needs improvement
+307,Anna Davis,58,95288,tom.brown@company.com,2017-04-08,Marketing,1,⭐ Good performer ⭐
+166,tom khan,57,104838,lisa.jones@company.com,2015-06-13,HR,1,ok
+817,Emma Wilson,45,36980,chris.gupta@company.com,2015-07-16,Marketing,5,Excellent performer!!!!
+179,David Wilson,,37330,john.davis@yahoo.com,2015-10-31,Finance,4,--
+486,John Taylor,61,82645,lisa.taylor@outlook.com,2024-11-28,Sales,2,   trailing spaces   
+66,mike khan,60,71229,anna.jones@gmail.com,2018-01-30,Operations,5,LATE COmiNG   
+142,David Smith,unknown,38444,emma.jones@yahoo.com,2017-03-29,Marketing,1,N/A
+437,TOM MILLER,23,50488,,2022-10-18,HR,5,ok
+523,Mike Davis,54,30683,tom.gupta@outlook.com,2024-03-12,Finance,1,Excellent performer!!!!
+845,Tom Gupta,59,95213,tom.smith,2022-01-08,HR,5,Communication issues
+421,John Wilson,54,87177,lisa.jones@yahoo.com,2016-04-03,Finance,3,Needs training in Python and SQL
+405,,23,-49484,mike.miller@company.com,,Finance,2,Communication issues
+680,Sarah Jones,,34822,emma.khan@outlook.com,2019-08-25,Sales,5,  
+266,,21,,emma.smith@outlook.com,2024-09-22,Finance,3,Excellent performer!!!!
+880,Lisa Jones,46,70051,chris.taylor@outlook.com,2015-06-18,Engineering,Poor,⭐ Good performer ⭐
+293,Lisa Wilson,46,94868,sarah.taylor@yahoo.com,2018-01-08,Engineering,4,--
+222,Tom Jones,44,71864,chris.smith@yahoo.com,2024-06-26,Finance,1,   trailing spaces   
+828,,unknown,93346,lisa.smith@company.com,2022-12-28,HR,4,Excellent performer!!!!
+236,David  Gupta,59,78224,john.wilson@gmail.com,2017-07-24,Marketing,Good,   trailing spaces   
+526,Sarah Gupta,23,112279,mike.gupta@gmail.com,2023-09-14,Finance,4,ok
+193,,40,77560,,2022-12-30,Marketing,4,Needs training in Python and SQL
+322,Emma Jones,38,36380,emma.smith@company.com,2018-02-21,,1,PROMOTION RECOMMENDED
+50,Chris Jones,51,112361,mike.miller@company.com,2024-05-20,IT,3,  
+892,John Wilson,23,105219,tom.wilson@outlook.com,2017-03-07,Engineering,1,--
+3,Emma Khan,,31832,tom.brown@company.com,2023-12-31,markting,3,Excellent performer!!!!
+818,David Brown,22,66709,sarah@@company.com,2015-07-13,Operations,Average,
+371,,61,64743,mike.wilson@outlook.com,2024-03-03,Operations,5,Communication issues
+922,Tom Miller,49,$82328,anna.brown@hotmail.com,2023-03-14,Finance,1,   trailing spaces   
+250,Priya Taylor,43,64314,sarah.khan@outlook.com,2019-12-16,Marketing,5,PROMOTION RECOMMENDED
+549,Lisa  Khan,57,97264,mike.smith@outlook.com,2015-10-01,HR,3,Communication issues
+433,Tom Wilson,30,51237,,2018-08-17,finance,5,Excellent performer!!!!
+640,ANNA BROWN,22,62884,emma.jones@yahoo.com,2023-04-19,Operations,4,⭐ Good performer ⭐
+508,Anna Davis,twenty,46515,david.jones@company.com,2023-08-29,IT,3,N/A
+34,Emma Jones,57,81748,david.gupta@company.com,2018-11-15,Operations,1,
+205,Priya Wilson,44,94447,,2016-11-28,HR,2,Communication issues
+890,Chris Smith,23,73286,lisa.smith@yahoo.com,2018-04-10,Operations,2,LATE COmiNG   
+589,Lisa Brown,55,36930,priya@@hotmail.com,2018-02-21,,1,Excellent performer!!!!
+731,Emma Brown,57,38523,emma.jones@gmail.com,2019-01-07,,2,PROMOTION RECOMMENDED
+78,,40,50487,priya.gupta@outlook.com,2018-08-02,Engineering,3,  
+85,David Khan,42,75727,mike.khan@outlook.com,2015-11-18,Marketing,2,N/A
+306,Chris Brown,53,40070,tom.khan@company.com,2015-03-21,,3,ok
+83,Lisa Lee,38,33689,lisa.miller@hotmail.com,2017-11-13,Marketing,3,--
+449,Tom Wilson,144,74606,chris.jones@outlook.com,2020-07-30,Operations,2,Good employee
+998,Anna Wilson,55,35759,chris.miller@hotmail.com,2017-01-14,IT,2,   trailing spaces   
+752,chris taylor,35,46512,chris.khan@hotmail.com,2018-10-23,Marketing,3,Needs improvement
+532,Sarah Lee,60,97692,anna.wilson@company.com,2021-01-18,HR,5,Communication issues
+324,Anna Gupta,45,37279,lisa.brown@company.com,2016-02-20,IT,,Good employee
+496,,36,71116,anna.wilson@yahoo.com,2019-06-14,Finance,4,
+911,David Lee,48,84842,,2015-03-23,Engineering,3,Needs training in Python and SQL
+6,lisa jones,23,100402,emma.khan@outlook.com,2024-06-19,Operations,2,Good employee
+426,Chris Taylor,21,119780,john@@outlook.com,2024-05-19,Finance,5,  
+491,tom davis,43,37577,emma.taylor@gmail.com,,Sales,1,Excellent performer!!!!
+98,Chris Gupta,54,85374,david.jones@gmail.com,2019-03-18,Sales,5,Good employee
+869,Priya Miller,52,59829,emma.davis@hotmail.com,2015-12-21,HR,5,  
+423,David Jones,39,55192,chris.miller@hotmail.com,,,8,   trailing spaces   
+886,Mike Brown,23,100464,john.wilson@yahoo.com,2017-10-24,IT,2,  
+282,John Gupta,23,64571,mike.taylor@outlook.com,2023-08-06,HR,5,Excellent performer!!!!
+267,,27,79930,john.brown@company.com,2018-10-29,Engineering,1,ok
+443,John Taylor,57,50788,chris.brown@hotmail.com,2016-12-07,HR,3,N/A
+746,Anna Davis,unknown,33404,chris.lee@company.com,2018-06-28,IT,5,Communication issues
+383,Priya Wilson,38,110837,emma.khan@gmail.com,2016-09-08,HR,3,PROMOTION RECOMMENDED
+693,Lisa Khan,31,65956,chris.taylor,08-23-2024,Operations,3,Communication issues
+894,Priya Brown,38,81201,emma.wilson@yahoo.com,2024-10-08,Finance,5,LATE COmiNG   
+535,Lisa Davis,37,84008,chris.lee@hotmail.com,11-09-2016,Finance,2,Needs training in Python and SQL
+119,Sarah Brown,58,104242,mike.davis@outlook.com,2018-03-27,IT,5,ok
+389,Emma Smith,41,32082,emma.miller@company.com,2024-11-14,Operations,1,
+251,Priya Lee,65,89110,anna.taylor@outlook.com,19/03/2017,IT,3,N/A
+944,John Smith,47,72731,mike.wilson@gmail.com,2023-07-27,Engineering,5,Needs training in Python and SQL
+454,Tom Khan,63,43650,priya.jones@gmail.com,2024-12-19,hr,4,Team player
+10,David Jones,175,107251,lisa.gupta,2024-10-04,Sales,5,  
+197,Mike Taylor,42,,lisa.jones@company.com,2024-08-20,Engineering,5,--
+619,Emma Khan,34,80469,david.miller@hotmail.com,2019-11-04,Engineering,5,Needs improvement
+82,Chris Taylor,45,67281,anna.miller@outlook.com,2016-11-27,Finance,4,   trailing spaces   
+399,Tom Davis,26,88361,tom.jones,2018-05-25,H.R,4,  
+502,Mike Wilson,29,111027,tom.wilson@hotmail.com,2017-12-12,Marketing,3,Needs training in Python and SQL
+635,chris taylor,27,30131,lisa.lee@outlook.com,2023-04-22,Marketing,2,Good employee
+240,Chris Wilson,-10,94769,lisa.taylor@company.com,17/02/2017,Engineering,5,Needs training in Python and SQL
+310,Mike Smith,174,119212,sarah.smith@yahoo.com,2018-08-11,IT,2,N/A
+212,Tom Khan,26,89409,mike.khan@company.com,2020-06-05,finance,7,Good employee
+835,John Jones,,70107,chris.taylor@yahoo.com,,Marketing,4,Team player
+381,Lisa Gupta,25,108890,tom@@outlook.com,2019-05-17,Sales,1,Excellent performer!!!!
+602,Lisa Brown,,99193,david@@outlook.com,2021-05-05,Sales,4,Team player
+228,PRIYA TAYLOR,,104762,tom.taylor@hotmail.com,2018-01-16,Operations,5,Team player
+874,Priya Brown,,41255,sarah.smith@hotmail.com,2024-05-05,HR,1,Communication issues
+360,Priya Wilson,30,90903,chris.jones@outlook.com,2023-11-11,Sales,4,Needs training in Python and SQL
+814,Lisa Khan,65,110744,lisa.gupta@outlook.com,2021-08-03,IT,2,Needs training in Python and SQL
+178,Tom Davis,24,63332,mike.miller@outlook.com,2018-09-13,Engineering,3,--
+995,John Taylor,40,90132,chris.jones@hotmail.com,2015-03-23,Operations,,PROMOTION RECOMMENDED
+757,mike miller,28,37928,chris.jones@company.com,2016-01-27,Marketing,3,   trailing spaces   
+494,Sarah Jones,18,119243,priya.miller@yahoo.com,,Marketing,,Team player
+335,Priya Miller,63,109103,lisa.gupta@gmail.com,2018-09-04,IT,4,
+893,Anna Gupta,43,79980,emma.jones@outlook.com,2023-02-01,Operations,3,Needs improvement
+8,Tom Jones,57,58051,sarah.wilson@yahoo.com,01-02-2017,Engineering,3,N/A
+156,david brown,33,53066,priya.davis@company.com,2020-04-09,Engineering,8,Communication issues
+843,lisa smith,51,85850,tom.miller@yahoo.com,2019-09-28,Engineering,3,Communication issues
+751,,58,55377,chris.smith@outlook.com,2022-04-05,Engg,1,--
+942,Tom  Gupta,34,78330,lisa.gupta@gmail.com,2023-10-17,Marketing,,  
+483,John Taylor,46,31303,emma.davis@company.com,2018-09-08,Operations,5,PROMOTION RECOMMENDED
+847,Chris Smith,60,,priya.brown@gmail.com,2018-01-21,Operations,,Communication issues
+750,John Khan,47,107710,chris.miller@outlook.com,2017-04-01,Marketing,1,Team player
+904,Sarah Wilson,44,80579,sarah.taylor@outlook.com,,HR,3,Needs training in Python and SQL
+592,,30,32446,lisa.gupta@company.com,2018-09-08,Sales,2,  
+953,chris lee,28,47888,tom.davis@company.com,2016-10-03,Sales,5,ok
+581,Emma Brown,38,88077,emma.miller@outlook.com,2016-02-27,Engineering,2,--
+440,Anna Khan,59,57450,tom.taylor@outlook.com,2023-04-19,Sales,3,  
+543,Tom Khan,56,85498,david.smith@gmail.com,2020-05-05,IT,1,Needs training in Python and SQL
+597,Sarah Wilson,,99932,mike.lee@outlook.com,2020-07-20,Sales,3,Excellent performer!!!!
+724,John Taylor,21,73724,john.gupta@gmail.com,2017-08-10,operations,5,N/A
+678,,57,58986,emma.smith@gmail.com,2015-03-27,IT,4,Needs improvement
+479,Emma Wilson,58,83648,john.khan@company.com,13/07/2019,Marketing,2,Communication issues
+229,Emma Taylor,57,33010,sarah.khan@outlook.com,2020-12-30,Marketing,Average,Team player
+975,Tom Khan,56,-25268,anna.smith@yahoo.com,2016-09-08,Finance,3,  
+815,Tom Khan,38,100184,mike.wilson@yahoo.com,2021-05-28,Sales,2,  
+213,,63,36828,anna.gupta@yahoo.com,2015-02-28,it,2,Good employee
+80,Priya Taylor,38,107469,,2024-07-31,IT,1,Needs training in Python and SQL
+149,David Lee,57,70703,,2016-03-31,IT,1,
+303,Emma Lee,47,106486,emma.jones@company.com,02/08/2019,IT,Excellent,Communication issues
+356,Sarah Wilson,18,104519,david.smith@company.com,2020-09-29,Operations,1,Needs training in Python and SQL
+430,Sarah Taylor,58,81166,anna.khan@hotmail.com,2024-02-01,HR,4,N/A
+520,,50,76461,chris.khan@company.com,2021-03-16,Marketing,4,Needs training in Python and SQL
+363,Anna Jones,20,40717,mike.gupta@gmail.com,06/11/2015,Engineering,4,--
+595,David Jones,18,56975,tom.jones@yahoo.com,19/02/2016,Marketing,2,Communication issues
+358,Priya Brown,64,97294,tom.davis@yahoo.com,2015-05-12,Operations,1,ok
+134,Anna Gupta,43,113614,chris.taylor@gmail.com,2019-02-25,Enginnering,3,PROMOTION RECOMMENDED
+830,Priya Wilson,22,106177,sarah.lee@outlook.com,2017-04-26,Finance,1,⭐ Good performer ⭐
+312,David Taylor,56,43902,anna.jones@gmail.com,2021-04-12,Marketing,4,Communication issues
+622,John Brown,30,38579,priya.miller@gmail.com,,HR,3,--
+465,John Wilson,39,43014,david.jones@yahoo.com,2021-01-07,Finance,5,--
+994,Emma Miller,30,31570,tom.brown@yahoo.com,2020-05-07,Finance,4,Excellent performer!!!!
+1,John Wilson,55,96179,sarah.khan@outlook.com,2017-11-25,Engineering,3,Communication issues
+317,Priya Miller,62,107883,emma.miller@hotmail.com,2023-02-08,Sales,1,
+723,John Gupta,60,74669,lisa.wilson@yahoo.com,2022-07-26,HR,1,
+560,Priya Wilson,62,93691,david.khan@gmail.com,04-18-2023,Engineering,2,Good employee
+372,Chris Gupta,52,54535,sarah.gupta@gmail.com,2020-01-23,Finance,2,N/A
+545,,34,84646,emma.brown@company.com,2018-05-13,Finance,2,--
+850,Anna Miller,37,68603,david.wilson@hotmail.com,2024-06-13,Marketing,1,ok
+395,David Lee,51,69441,tom.smith@company.com,,Engineering,2,Good employee
+173,Emma  Brown,62,106588,john@@yahoo.com,2016-04-02,Marketing,3,Good employee
+126,Anna Brown,43,82730,anna@@yahoo.com,2015-04-29,Engineering,1,PROMOTION RECOMMENDED
+899,Sarah Gupta,41,"43,672",emma.taylor@gmail.com,05/09/2022,Operations,4,Needs improvement
+579,Tom Brown,18,81825,david.khan@outlook.com,2023-11-29,Marketing,5,Excellent performer!!!!
+949,Emma Jones,-6,79958,lisa@@outlook.com,2024-05-04,Sales,3,N/A
+921,john brown,42,88422,john.gupta@outlook.com,2016-08-14,Engineering,5,LATE COmiNG   
+91,John Smith,51,37398,john.brown@company.com,2015-05-02,Operations,1,Needs training in Python and SQL
+971,,26,116512,priya.khan@yahoo.com,,Operations,1,PROMOTION RECOMMENDED
+182,Emma Lee,63,85545,tom.khan@yahoo.com,2018-11-03,Engineering,1,--
+364,Anna Taylor,48,32132,sarah.taylor@yahoo.com,2021-04-05,IT,5,--
+275,Mike Jones,63,"99,523",david.brown@company.com,2018-06-01,,3,Team player
+913,Emma Khan,22,57063,chris.taylor@hotmail.com,2022-03-26,markting,5,   trailing spaces   
+70,Emma Brown,58,69720,david.gupta@hotmail.com,2022-12-14,Operations,2,Good employee
+292,Chris Jones,169,91228,sarah.khan@company.com,2019-09-04,Marketing,1,ok
+132,Priya Wilson,65,116613,tom.wilson@hotmail.com,2016-11-12,IT,4,Excellent performer!!!!
+301,Emma Davis,49,65755,david.taylor@hotmail.com,2019-09-05,Operations,1,Excellent performer!!!!
+448,Emma Wilson,19,59372,priya.brown@gmail.com,2023-10-27,HR,2,Team player
+327,Chris Gupta,35,"63,444",mike.miller@gmail.com,2018-03-10,Operations,2,Needs training in Python and SQL
+145,Anna Jones,40,63612,emma.brown@gmail.com,2020-03-03,Marketing,2,Good employee
+552,Sarah Gupta,35,50557,,2023-07-29,Finance,5,Team player
+596,Mike Khan,22,105963,david.taylor@outlook.com,2020-06-11,Marketing,Good,  
+656,Priya Brown,24,108579,priya.gupta@outlook.com,2021-01-13,HR,5,⭐ Good performer ⭐
+136,Lisa Miller,26,86849,sarah.lee@yahoo.com,2022-05-03,HR,4,⭐ Good performer ⭐
+431,Anna Smith,62,118225,anna.jones@company.com,2020-04-14,HR,5,
+165,Sarah Brown,34,48423,chris.jones@outlook.com,2024-03-22,Sales,5,  
+29,John Taylor,36,78161,anna.gupta@hotmail.com,,HR,1,
+588,Priya Jones,24,111094,emma.wilson@company.com,06/03/2016,Finance,1,N/A
+194,John Wilson,33,119816,mike.khan@yahoo.com,2018-04-22,HR,5,Good employee
+791,priya gupta,41,112750,john.lee@gmail.com,2019-01-07,Engineering,1,   trailing spaces   
+653,John Taylor,29,89338,john.davis@hotmail.com,2018-06-25,Operations,3,LATE COmiNG   
+170,Anna Gupta,60,41829,david.lee@hotmail.com,2016-02-29,Engineering,2,Team player
+514,Mike Miller,47,100770,david.davis@hotmail.com,,HR,2,Team player
+141,Emma  Davis,33,87067,priya.khan@gmail.com,2020-04-18,Finance,4,   trailing spaces   
+174,Emma Jones,21,60924,tom.brown@company.com,2019-02-10,Engineering,4,Excellent performer!!!!
+7,Priya Wilson,49,,john.taylor@gmail.com,2019-02-03,Marketing,4,LATE COmiNG   
+657,Anna Khan,40,47527,priya.khan@yahoo.com,2021-12-08,Marketing,4,--
+965,John Brown,30,87757,tom.gupta@yahoo.com,2020-06-16,Operations,5,--
+74,David Taylor,29,44336,lisa.davis,2019-09-20,Finance,5,
+765,Chris Lee,31,97853,,2021-01-01,Engineering,4,LATE COmiNG   
+654,Mike Brown,42,116805,sarah.davis@yahoo.com,2022-11-08,Operations,3,PROMOTION RECOMMENDED
+239,Priya Lee,32,89468,,2018-02-10,Sales,1,Needs improvement
+146,John Brown,40,60950,john.jones@gmail.com,2022-09-01,HR,1,N/A
+809,Anna Brown,39,47143,sarah.khan@yahoo.com,2023-10-26,Sales,2,Team player
+235,Priya Smith,56,64099,anna.smith@outlook.com,2022-04-19,Marketing,1,   trailing spaces   
+221,Lisa Khan,38,107858,sarah.smith@yahoo.com,2015-02-19,Sales,2,N/A
+501,Chris Taylor,52,101358,chris.davis@hotmail.com,2017-05-29,Operations,Good,   trailing spaces   
+674,,55,,sarah.khan@hotmail.com,2017-06-15,Finance,3,--
+133,Emma Miller,-4,91249,sarah.jones@gmail.com,2020-04-16,sales,2,Needs improvement
+516,TOM KHAN,42,69838,emma.taylor@gmail.com,2024-04-22,Operations,,⭐ Good performer ⭐
+434,John Miller,60,67022,emma.khan@company.com,,Sales,4,Needs improvement
+671,Emma Davis,59,31105,lisa.smith@yahoo.com,2016-09-26,Sales,2,
+186,Anna Smith,47,32762,david.khan,2015-05-27,HR,2,   trailing spaces   
+42,Mike Wilson,38,106273,tom.wilson@company.com,2024-11-21,Sales,Good,   trailing spaces   
+626,Emma Wilson,59,62285,mike.davis@outlook.com,2024-03-06,Operations,1,PROMOTION RECOMMENDED
+109,Tom Brown,62,87146,john.lee@company.com,2023-08-22,Operations,3,  
+604,David Lee,31,"43,019",chris.smith@yahoo.com,2022-06-27,IT,2,LATE COmiNG   
+57,Lisa Jones,183,42626,david.miller@yahoo.com,2020-04-21,Sales,5,Needs training in Python and SQL
+429,Priya Khan,56,68455,john.wilson@hotmail.com,2015-12-12,Sales,1,PROMOTION RECOMMENDED
+469,Mike Khan,56,84493,sarah.brown@company.com,2017-11-18,Sales,5,Team player
+577,Sarah Miller,48,"111,889",john.miller@company.com,2021-07-24,Finance,4,   trailing spaces   
+878,Lisa Miller,54,33945,david.wilson@outlook.com,2019-11-30,Engineering,1,Excellent performer!!!!
+25,David Khan,47,83383,emma.taylor@hotmail.com,2015-03-13,Sales,1,   trailing spaces   
+441,Anna Davis,47,32376,john.lee@hotmail.com,2019-03-03,Marketing,5,ok
+883,Tom Taylor,53,74541,mike.brown@outlook.com,2023-02-17,Engineering,2,Excellent performer!!!!
+544,Tom Gupta,64,94165,priya.gupta@company.com,2016-07-11,IT,1,  
+634,Mike Smith,60,102764,chris.khan@company.com,2021-02-19,Engineering,5,Good employee
+831,Lisa Khan,35,106543,priya.khan@gmail.com,2021-11-15,Operations,3,ok
+945,Lisa Lee,26,51605,david.brown@company.com,2019-03-16,Engineering,1,⭐ Good performer ⭐
+339,Priya Smith,26,80867,anna.khan@company.com,2016-07-29,Marketing,2,--
+52,Priya Smith,41,"36,927",tom.jones@gmail.com,2021-05-27,Sales,2,  
+384,Anna Lee,35,118316,sarah.wilson@hotmail.com,2017-07-01,Marketing,5,⭐ Good performer ⭐
+528,Mike Taylor,35,69216,john.gupta@outlook.com,2020-11-22,Engineering,5,⭐ Good performer ⭐
+939,Anna Davis,48,58476,sarah@@yahoo.com,2017-06-07,IT,1,ok
+888,Anna Gupta,55,,john.lee@hotmail.com,2022-03-23,Engineering,1,ok
+265,CHRIS DAVIS,45,35965,david.wilson@outlook.com,2022-03-28,Marketing,5,
+550,Chris Taylor,,45474,anna.lee@gmail.com,08/08/2019,Finance,2,⭐ Good performer ⭐
+914,John Brown,55,56958,john.taylor@hotmail.com,2022-09-09,Engineering,3,
+698,Mike Taylor,53,89497,tom.lee,2022-12-11,HR,1,Excellent performer!!!!
+396,David Taylor,38,49420,anna.taylor@gmail.com,2015-10-11,HR,4,ok
+530,TOM MILLER,57,79501,tom@@yahoo.com,2020-12-13,Engineering,8,Communication issues
+869,Priya Miller,52,59829,emma.davis@hotmail.com,2015-12-21,HR,5,  
+19,Mike Khan,34,67784,john.jones@hotmail.com,2024-12-21,markting,3,
+732,Priya Miller,47,38126,chris.gupta@outlook.com,2023-09-08,Finance,5,Needs training in Python and SQL
+679,,-8,94724,,2020-06-02,IT,3,   trailing spaces   
+582,Emma Jones,61,114661,david.taylor@gmail.com,17/03/2023,Engineering,3,  
+977,Tom  Wilson,37,61265,emma@@yahoo.com,2019-01-26,Marketing,1,--
+368,Priya Miller,44,"69,013",tom.smith@hotmail.com,2020-04-02,IT,Excellent,   trailing spaces   
+84,David Khan,54,46803,sarah.miller@company.com,2022-05-30,Operations,2,Team player
+62,David Khan,thirty,64296,tom.gupta@outlook.com,2017-01-12,IT,4,⭐ Good performer ⭐
+842,Tom Jones,32,-16429,,2017-11-23,Engineering,1,ok
+273,Sarah Khan,46,74456,tom.lee@company.com,2016-10-30,Operations,5,Team player
+286,David Miller,42,49826,tom.jones@outlook.com,2016-10-02,sales,4,--
+361,John Gupta,39,104511,mike.smith@outlook.com,2018-03-03,Finance,3,Team player
+355,Emma Davis,50,98562,anna.smith@gmail.com,2015-09-04,IT,3,Good employee
+482,Lisa Lee,42,88009,tom.brown@company.com,2023-03-10,Marketing,2,Needs improvement
+279,John Davis,63,66831,priya.miller@yahoo.com,2023-09-25,HR,6,Good employee
+13,Anna Miller,32,79756,lisa.brown@company.com,2017-03-20,HR,1,Needs improvement
+183,Lisa Gupta,38,62289,sarah.wilson@hotmail.com,2019-12-27,IT,1,Needs training in Python and SQL
+369,Lisa Lee,21,89637,priya.lee@gmail.com,2017-02-20,Engineering,5,--
+600,Sarah Smith,36,33049,john.jones@gmail.com,2024-04-07,HR,3,⭐ Good performer ⭐
+631,DAVID LEE,19,48660,mike.wilson@company.com,2022-02-13,Sales,2,⭐ Good performer ⭐
+224,EMMA DAVIS,58,107728,john.miller@hotmail.com,2017-07-24,IT,2,--
+972,Lisa Gupta,48,81199,priya.brown@yahoo.com,2018-09-19,Sales,4,Team player
+715,Priya Smith,23,62765,david.khan@hotmail.com,23/01/2023,Marketing,3,Team player
+778,David Miller,46,73072,anna.miller@company.com,2016-03-17,Engineering,1,Needs improvement
+558,David Brown,46,45432,anna.smith@company.com,2018-02-05,HR,1,Good employee
+466,David Brown,33,77675,chris.smith@outlook.com,2024-08-10,Finance,3,Team player
+598,john taylor,24,82664,david.smith@hotmail.com,2019-11-12,Engineering,2,N/A
+708,lisa taylor,48,-22471,anna.smith@yahoo.com,2015-09-22,Marketing,3,
+177,Priya Khan,60,65985,john.khan@yahoo.com,2017-05-10,Engineering,2,Needs improvement
+681,Sarah Khan,37,109433,john.khan@hotmail.com,2021-05-15,H.R,5,N/A
+854,John Lee,36,"39,351",chris.khan@yahoo.com,2015-06-21,IT,4,Needs training in Python and SQL
+955,Lisa Wilson,61,38943,emma@@company.com,2019-12-20,Operations,3,Communication issues
+457,Sarah Taylor,52,110028,lisa.taylor,,Finance,1,Communication issues
+533,Lisa Taylor,22,77352,tom@@hotmail.com,2020-12-14,Finance,2,⭐ Good performer ⭐
+394,Chris Davis,48,100593,,2024-06-21,Engineering,1,Needs improvement
+164,Anna Jones,52,41836,priya.taylor@gmail.com,07/02/2024,Marketing,3,
+249,Sarah Davis,42,33771,emma.taylor@hotmail.com,2017-03-15,Marketing,2,Communication issues
+650,Emma Smith,39,96167,emma.jones@outlook.com,2019-01-20,Sales,5,Excellent performer!!!!
+903,Priya Jones,unknown,,tom.gupta@company.com,2019-02-26,Engineering,1,⭐ Good performer ⭐
+685,David Wilson,24,94751,lisa.miller@gmail.com,2019-05-05,Finance,5,   trailing spaces   
+376,Priya Khan,149,100041,anna.wilson@hotmail.com,2020-02-03,Operations,2,--
+413,Mike Khan,46,93950,priya.jones@gmail.com,2016-05-13,Sales,3,   trailing spaces   
+75,David Jones,50,94297,john.gupta@hotmail.com,2018-09-08,Marketing,,   trailing spaces   
+114,SARAH GUPTA,39,-12414,mike.gupta@hotmail.com,2019-05-26,Sales,1,Communication issues
+584,David Jones,58,104972,sarah.wilson@company.com,2017-09-15,,4,Needs training in Python and SQL
+573,John Miller,189,48156,mike.wilson@hotmail.com,2018-10-30,IT,4,Communication issues
+391,Chris Lee,46,57424,anna.jones@company.com,2023-09-02,H.R,2,ok
+105,Priya Miller,54,56988,sarah.miller@gmail.com,2023-03-28,Finance,,Team player
+115,Lisa Taylor,45,59607,mike.smith@outlook.com,2019-07-13,Operations,3,Excellent performer!!!!
+418,Mike Brown,40,92041,chris.jones@hotmail.com,2017-05-11,Operations,5,  
+669,Mike Lee,64,79332,david.taylor@company.com,2017-07-09,Finance,5,
+458,Emma Gupta,55,43352,anna.smith@hotmail.com,2023-02-07,Marketing,2,Needs training in Python and SQL
+410,John Miller,31,,mike.gupta@company.com,2024-02-19,Finance,5,Team player
+93,Tom Gupta,,70907,sarah.brown@outlook.com,2018-12-11,IT,5,  
+820,Chris Taylor,51,94092,sarah.brown@hotmail.com,2021-01-11,IT,2,Needs training in Python and SQL
+90,Sarah Taylor,-6,76840,mike.jones@gmail.com,2020-01-24,Engg,,Excellent performer!!!!
+337,John Brown,34,"78,163",mike.khan@yahoo.com,2021-03-30,Marketing,5,Communication issues
+737,Chris Brown,thirty,68655,sarah.khan@gmail.com,2017-01-04,Operations,3,Excellent performer!!!!
+940,Priya Wilson,25,83907,mike.davis@outlook.com,2021-05-17,Marketing,1,   trailing spaces   
+952,Chris Khan,24,,tom.brown@outlook.com,2018-10-15,Engineering,4,Good employee
+884,Anna  Gupta,19,85799,anna.smith@company.com,2021-05-18,IT,2,Team player
+621,David Jones,22,$90925,mike.smith@company.com,2017-01-10,Marketing,3,Team player
+790,Tom Miller,63,68086,emma.khan@outlook.com,2023-11-27,HR,4,ok
+627,Lisa Davis,46,115400,chris.taylor@company.com,2018-12-14,,3,⭐ Good performer ⭐
+95,Anna Smith,19,45003,priya.lee@gmail.com,2015-04-06,Engineering,3,--
+12,Sarah Lee,24,53704,emma.lee@hotmail.com,,Finance,3,Team player
+397,Emma Gupta,24,32859,john.miller@company.com,2018-07-15,HR,1,
+546,David Smith,190,48919,mike.brown@company.com,,Operations,2,
+44,Sarah Taylor,20,76674,tom.taylor@yahoo.com,2015-11-19,Operations,1,
+43,CHRIS JONES,51,114388,anna.davis@gmail.com,09-30-2020,,5,
+168,,60,106076,sarah.miller@yahoo.com,2022-01-21,HR,,Communication issues
+417,Tom Miller,24,$114974,lisa.smith@company.com,2018-07-21,Finance,4,
+877,David Davis,36,88978,,21/11/2019,Operations,5,PROMOTION RECOMMENDED
+427,Sarah Khan,21,108918,sarah.gupta@outlook.com,04/07/2024,Finance,1,⭐ Good performer ⭐
+900,John Miller,,53283,priya.brown@yahoo.com,22/10/2020,it,2,Good employee
+981,Chris Miller,32,38280,emma.gupta@hotmail.com,2018-04-01,IT,2,Communication issues
+976,Anna Khan,39,62728,mike.wilson@company.com,2018-06-13,HR,2,Excellent performer!!!!
+688,David Jones,155,109032,john.taylor@gmail.com,2017-12-15,Engineering,4,Excellent performer!!!!
+258,Priya Smith,43,108275,john.taylor@hotmail.com,2021-08-09,IT,1,  
+336,Sarah Miller,56,117231,mike.smith@gmail.com,2023-07-22,IT,1,ok
+16,Priya Davis,46,71193,lisa.davis@yahoo.com,2020-03-18,Finance,5,ok
+645,Anna Miller,40,103804,john.brown@company.com,2020-07-29,Engineering,2,  
+325,Anna  Smith,22,101716,chris.miller@yahoo.com,04/11/2018,Sales,1,   trailing spaces   
+775,John Smith,20,73403,anna.brown@yahoo.com,2024-12-17,Operations,3,Team player
+223,David Smith,37,47499,lisa.miller,2023-11-01,hr,2,Communication issues
+180,Mike Gupta,59,79113,tom.gupta@yahoo.com,2022-12-14,Operations,1,--
+396,David Taylor,38,49420,anna.taylor@gmail.com,2015-10-11,HR,4,ok
+522,Lisa Miller,20,88816,sarah.brown@yahoo.com,2020-08-29,Engineering,5,Excellent performer!!!!
+23,Lisa Jones,54,70895,emma.taylor@outlook.com,2021-02-01,IT,3,Excellent performer!!!!
+357,David Lee,39,-44985,tom.khan@yahoo.com,2021-05-06,Operations,5,Communication issues
+962,Lisa Taylor,44,81229,lisa.wilson@yahoo.com,2019-08-12,Finance,1,   trailing spaces   
+906,,64,98733,chris.davis@outlook.com,2021-04-23,operations,5,  
+341,Tom Davis,58,41825,mike.wilson@gmail.com,2022-11-04,Engineering,3,Needs improvement
+432,John Khan,40,77219,anna.miller@hotmail.com,,Marketing,4,Communication issues
+774,Lisa Miller,64,91263,tom.gupta@hotmail.com,,Engineering,2,Needs improvement
+851,Chris Taylor,34,97212,david.lee@hotmail.com,2024-02-28,sales,2,Needs improvement
+204,David Taylor,58,40498,david.davis@gmail.com,2019-07-21,Engineering,1,  
+918,John Brown,53,95860,,2022-02-20,HR,2,   trailing spaces   
+94,Sarah Miller,31,38585,anna.jones@company.com,2019-08-29,IT,4,ok
+571,Mike Wilson,163,92289,john.gupta@yahoo.com,2016-09-21,Finance,2,N/A
+69,Chris Miller,44,116430,john.miller@outlook.com,2017-06-25,IT,1,⭐ Good performer ⭐
+755,Anna Khan,147,88277,lisa.jones@yahoo.com,2015-09-07,HR,Good,LATE COmiNG   
+285,Anna Gupta,28,94392,mike.jones@hotmail.com,2022-07-15,Marketing,2,--
+928,Priya Wilson,58,89809,david.taylor@outlook.com,2022-12-20,Finance,3,Team player
+435,sarah gupta,23,41297,david.wilson@hotmail.com,2021-05-01,Operations,5,   trailing spaces   
+154,david gupta,64,63868,,2022-08-25,Operations,5,   trailing spaces   
+76,Tom  Khan,28,119833,mike.smith@outlook.com,2020-05-02,IT,1,N/A
+747,John Gupta,185,73017,tom.lee@gmail.com,2022-12-06,Marketing,1,Excellent performer!!!!
+447,Priya Davis,38,59712,tom@@gmail.com,2024-11-09,Finance,2,N/A
+189,Tom Davis,51,37166,chris.jones@hotmail.com,2019-02-28,Marketing,5,Communication issues
+272,David Davis,43,96027,chris@@company.com,,Finance,7,Team player
+237,Tom Miller,42,104349,david.davis@hotmail.com,2020-02-12,Engineering,5,  
+488,Tom Khan,40,81546,emma.jones@outlook.com,2019-03-16,HR,2,  
+118,David Davis,56,"74,150",david.taylor@outlook.com,2024-10-17,HR,5,PROMOTION RECOMMENDED
+836,Priya  Lee,61,79425,tom.taylor@company.com,2024-04-28,IT,5,Good employee
+513,Tom Gupta,45,33655,emma.lee@hotmail.com,2022-03-15,Engineering,1,
+850,Anna Miller,37,68603,david.wilson@hotmail.com,2024-06-13,Marketing,1,ok
+686,Chris Gupta,56,55397,sarah.lee@gmail.com,2022-12-04,Finance,4,Communication issues
+127,David Lee,56,97550,sarah.khan@company.com,2016-07-21,Operations,4,PROMOTION RECOMMENDED
+117,Mike Gupta,32,105784,tom.jones@outlook.com,2020-01-15,HR,5,Needs improvement
+474,TOM SMITH,56,84396,priya.wilson@yahoo.com,2021-05-28,Operations,2,PROMOTION RECOMMENDED
+709,Lisa Smith,31,71450,mike.miller@outlook.com,2016-12-02,,2,Team player
+58,Chris Wilson,63,116649,mike.brown@yahoo.com,2019-11-25,Marketing,5,⭐ Good performer ⭐
+690,Tom Brown,38,38526,john.davis@company.com,2017-08-19,IT,5,Team player
+930,Priya Smith,60,52954,priya.davis@outlook.com,2019-07-06,Operations,1,Team player
+370,Chris Gupta,37,88975,priya.gupta@gmail.com,2023-08-09,HR,5,
+269,David Jones,64,47332,emma.khan@gmail.com,2022-01-07,Finance,4,ok
+47,Chris Gupta,49,49316,priya.brown@gmail.com,2017-01-23,Operations,5,   trailing spaces   
+350,Sarah Jones,39,68103,chris.jones@gmail.com,2023-05-21,Operations,5,PROMOTION RECOMMENDED
+196,Priya Miller,21,80917,john.miller@hotmail.com,2016-08-23,Engineering,4,LATE COmiNG   
+903,Priya Jones,unknown,,tom.gupta@company.com,2019-02-26,Engineering,1,⭐ Good performer ⭐
+852,Chris Wilson,41,40244,tom.jones@yahoo.com,2017-11-04,Sales,,⭐ Good performer ⭐
+707,Priya Lee,36,59431,,2020-07-29,Engineering,4,Needs improvement
+753,Emma Davis,26,63591,emma.lee@company.com,2016-01-21,Marketing,2,Needs training in Python and SQL
+264,Tom Brown,36,108411,chris.wilson@company.com,2020-10-07,IT,2,  
+444,,41,95991,mike.khan@gmail.com,2020-10-25,HR,,Good employee
+959,Anna Jones,27,52359,priya.smith@company.com,2023-08-17,Sales,2,PROMOTION RECOMMENDED
+305,sarah wilson,18,104814,sarah.smith@outlook.com,02-15-2020,H.R,4,Needs improvement
+342,Mike Gupta,29,78265,mike.taylor@hotmail.com,2018-07-09,Marketing,1,ok
+614,Anna Wilson,62,63807,anna.lee@gmail.com,2023-11-03,Engineering,1,N/A
+987,,20,112154,mike.taylor@company.com,2020-04-07,Sales,4,  
+150,Priya Jones,46,103377,david.khan@hotmail.com,2024-05-24,Operations,5,Good employee
+125,Anna Jones,61,71071,tom.brown@gmail.com,2019-08-08,,,   trailing spaces   
+803,Sarah Gupta,21,57556,john.miller@gmail.com,2022-01-09,HR,1,   trailing spaces   
+870,,19,57508,chris.khan@gmail.com,2020-08-01,HR,1,   trailing spaces   
+51,Emma Miller,55,33895,chris.khan@hotmail.com,2016-04-21,Operations,2,Needs training in Python and SQL
+354,John Jones,22,69375,,2015-07-16,Finance,1,LATE COmiNG   
+946,David Gupta,21,96330,lisa.miller@yahoo.com,2017-05-24,Finance,3,⭐ Good performer ⭐
+143,Mike  Gupta,54,84059,mike.smith@outlook.com,2018-04-15,Engineering,5,N/A
+471,John Smith,46,92084,david.gupta@hotmail.com,2021-11-18,Sales,,⭐ Good performer ⭐
+400,David Jones,20,91799,anna.miller@outlook.com,2018-01-15,Engineering,Good,LATE COmiNG   
+717,Emma Wilson,18,112050,tom.gupta@yahoo.com,2023-02-28,Engineering,2,ok
+321,Lisa Wilson,23,104600,emma.jones@yahoo.com,2022-12-03,Engineering,2,LATE COmiNG   
+20,Mike Brown,49,35322,emma.smith,2019-02-21,HR,1,   trailing spaces   
+827,David Brown,47,79005,john.wilson@hotmail.com,30/01/2017,Operations,4,  
+807,Priya Lee,63,111684,mike.gupta@yahoo.com,2020-06-05,Engineering,4,LATE COmiNG   
+826,Mike  Khan,22,90852,anna.miller@hotmail.com,,Operations,4,N/A
+408,Sarah Lee,19,108097,priya.lee@yahoo.com,2019-06-24,HR,5,Needs training in Python and SQL
+538,Tom Miller,50,88479,priya.wilson@yahoo.com,2023-01-12,IT,4,⭐ Good performer ⭐
+636,SARAH SMITH,43,111360,priya.miller@gmail.com,2018-11-28,Finance,,ok
+39,Sarah Miller,49,82990,tom.davis@hotmail.com,2015-11-10,HR,1,ok
+176,Anna Taylor,164,52957,tom.gupta@outlook.com,09-22-2017,Marketing,,Team player
+246,Chris Khan,47,67089,emma.wilson@yahoo.com,2016-02-07,Engineering,5,  
+846,,38,80118,,2024-11-08,Marketing,2,
+683,Priya Miller,28,113681,tom.khan@yahoo.com,2021-07-07,Operations,5,Needs improvement
+771,Chris Jones,54,56379,chris.taylor@company.com,2023-08-29,Finance,2,Communication issues
+969,Tom Wilson,25,113203,david.lee@hotmail.com,2023-10-29,Operations,1,Needs improvement
+155,Priya Taylor,25,66408,emma.brown@outlook.com,2024-09-21,Marketing,2,Needs improvement
+288,David Lee,54,87670,john.jones@gmail.com,2024-07-23,sales,4,Communication issues
+618,,39,96666,david.jones@outlook.com,2022-01-16,Marketing,2,--
+570,Mike Gupta,40,74279,anna.lee@company.com,05-01-2023,Engineering,5,LATE COmiNG   
+760,John Lee,58,70788,emma.miller@outlook.com,2015-04-24,it,,Excellent performer!!!!
+18,David Lee,40,94987,tom.khan@company.com,2020-02-29,Marketing,1,
+128,Tom Lee,23,101770,mike.miller@yahoo.com,2020-08-23,Marketing,3,Team player
+323,John Davis,42,67087,mike.jones@gmail.com,2021-07-28,Operations,3,⭐ Good performer ⭐
+256,Emma Miller,20,82108,chris.smith@yahoo.com,2023-01-28,Engineering,9,Communication issues
+689,Anna Gupta,65,38566,mike.gupta,2019-02-02,Finance,4,--
+985,David Jones,unknown,-16413,lisa.gupta@outlook.com,12-07-2021,Marketing,5,
+191,David Taylor,28,102447,john.miller@outlook.com,2023-01-11,Operations,5,Communication issues
+116,John  Taylor,25,42053,tom.gupta@company.com,2020-03-15,Operations,2,Good employee
+632,Sarah Taylor,27,52044,sarah.gupta@hotmail.com,2023-11-25,Engineering,5,
+607,John  Smith,thirty,50214,john.gupta@outlook.com,2016-02-08,,Good,   trailing spaces   
+181,Chris Miller,42,44806,lisa.gupta@outlook.com,2017-09-29,Finance,2,
+302,David Miller,55,116918,sarah.gupta@yahoo.com,,Sales,3,  
+941,David Miller,64,102459,john.brown@gmail.com,2024-10-18,IT,5,Needs training in Python and SQL
+729,SARAH GUPTA,176,37954,david.wilson@hotmail.com,2015-01-28,IT,5,LATE COmiNG   
+740,Lisa Davis,61,108587,mike.smith@company.com,2018-09-21,Operations,3,Team player
+274,Mike Taylor,,47290,john.smith@company.com,2023-07-12,Finance,5,Needs improvement
+788,Anna Gupta,19,39664,mike.wilson@company.com,2019-02-06,IT,5,⭐ Good performer ⭐
+518,Lisa  Brown,18,37857,emma.gupta@hotmail.com,2016-06-01,IT,4,   trailing spaces   
+624,sarah lee,24,32440,,2023-03-06,Marketing,3,ok
+46,Anna Wilson,20,93508,anna.brown@company.com,2019-09-27,Sales,2,--
+927,Sarah Khan,27,67737,john.davis@gmail.com,2015-06-24,Sales,5,Needs improvement
+158,Tom Wilson,36,93680,david.miller@yahoo.com,2017-12-01,Marketing,4,Team player
+761,John Smith,28,100928,priya.wilson@company.com,2021-05-15,Sales,4,--
+172,,36,71079,chris.wilson@outlook.com,2021-07-02,Sales,2,Good employee
+17,Anna Brown,19,44459,john.taylor@yahoo.com,2016-05-12,Sales,1,
+512,Anna Taylor,62,113320,tom.gupta@gmail.com,2023-10-08,Finance,4,--
+49,Anna Khan,42,94138,sarah.khan@yahoo.com,2023-05-01,Sales,,PROMOTION RECOMMENDED
+992,david miller,24,52756,tom.brown@company.com,11/06/2015,Operations,4,N/A
+858,John Khan,29,119592,anna.lee@gmail.com,10-12-2016,HR,3,--
+516,TOM KHAN,42,69838,emma.taylor@gmail.com,2024-04-22,Operations,,⭐ Good performer ⭐
+912,Sarah Taylor,51,39012,anna.davis@hotmail.com,2020-05-05,Operations,1,Needs training in Python and SQL
+481,JOHN BROWN,46,77418,john.jones@yahoo.com,07-15-2017,Operations,4,LATE COmiNG   
+284,Lisa Jones,50,71358,mike.miller@outlook.com,2021-11-01,IT,3,Needs training in Python and SQL
+735,Emma Khan,19,38623,lisa.khan@gmail.com,2023-03-20,Engineering,5,N/A
+670,Priya Jones,-9,76919,john.brown@yahoo.com,2015-06-17,Finance,4,
+226,Anna Jones,30,84328,mike.khan@yahoo.com,2019-06-21,Marketing,5,
+27,Chris Khan,53,39123,emma.wilson@hotmail.com,2021-09-06,,5,--
+799,,23,64313,sarah.davis@gmail.com,2019-06-03,Engineering,3,
+438,Mike Davis,62,43225,lisa.khan@outlook.com,2015-06-09,Operations,4,Needs improvement
+970,Mike Brown,22,114018,mike.khan@yahoo.com,29/03/2015,Marketing,3,
+365,Lisa Davis,47,116714,mike.brown@outlook.com,2020-12-18,IT,4,--
+230,John Wilson,54,114817,priya.brown@yahoo.com,2021-01-11,it,3,Good employee
+38,Anna Taylor,30,107982,lisa.gupta@hotmail.com,2021-05-19,Engineering,3,--
+986,Priya  Gupta,20,72879,,2021-04-19,Sales,4,--
+375,David Davis,40,118265,sarah.brown@hotmail.com,07/04/2022,IT,4,⭐ Good performer ⭐
+470,JOHN KHAN,53,30863,emma.jones@company.com,05-12-2022,Finance,3,PROMOTION RECOMMENDED
+988,Mike Jones,50,57147,chris.smith@outlook.com,2018-02-25,Sales,2,
+868,Sarah Smith,52,49566,chris.gupta@company.com,2024-11-29,HR,7,PROMOTION RECOMMENDED
+909,David Miller,55,83852,anna.wilson@gmail.com,2023-07-19,Engineering,5,   trailing spaces   
+742,Sarah Gupta,38,,lisa.gupta@company.com,2022-09-08,IT,4,LATE COmiNG   
+195,Tom Lee,50,60983,lisa.brown@outlook.com,2024-01-12,Finance,5,PROMOTION RECOMMENDED
+935,Emma Gupta,22,"35,723",emma.khan@hotmail.com,2019-05-11,IT,3,PROMOTION RECOMMENDED
+882,Lisa Lee,20,116356,anna.taylor@company.com,2017-02-13,Finance,1,⭐ Good performer ⭐
+504,David Taylor,41,115033,emma.smith@gmail.com,2022-05-08,Sales,6,ok
+990,Tom Wilson,34,45834,emma.smith@yahoo.com,2022-06-12,HR,2,Team player
+848,Priya Smith,53,64815,tom.taylor@outlook.com,2015-02-11,Engineering,1,Needs training in Python and SQL
+580,Priya Smith,46,36005,sarah.wilson@yahoo.com,2018-04-07,Finance,1,N/A
+989,john taylor,48,81781,tom.jones@yahoo.com,2017-10-18,Engineering,,Needs training in Python and SQL
+163,Anna Wilson,52,118037,mike.davis@hotmail.com,2023-02-21,Sales,4,ok
+718,Sarah Smith,30,33653,john.wilson@company.com,,Engineering,1,Needs training in Python and SQL
+153,,41,65744,sarah.smith@yahoo.com,2015-01-29,Finance,1,Communication issues
+697,Priya Brown,28,63150,chris.khan@gmail.com,2023-10-18,Sales,5,N/A
+716,john taylor,37,73152,priya.khan@company.com,2017-10-29,IT,10,LATE COmiNG   
+929,Emma Davis,48,68987,lisa.davis@yahoo.com,2024-07-20,IT,2,PROMOTION RECOMMENDED
+112,Tom Davis,-1,100232,tom.smith@company.com,2023-07-18,Marketing,4,Good employee
+227,John Smith,29,81576,sarah.wilson@yahoo.com,2018-09-11,Sales,4,Team player
+704,Sarah Jones,18,119151,john.wilson@company.com,2017-07-06,HR,1,Needs training in Python and SQL
+104,Tom Miller,23,43114,mike.khan@outlook.com,2023-08-08,IT,2,Good employee
+422,Sarah Gupta,22,,lisa.brown@outlook.com,2015-03-08,Operations,1,PROMOTION RECOMMENDED
+420,Anna Wilson,63,75451,chris.miller@outlook.com,2020-05-11,Sales,1,Needs training in Python and SQL
+849,Sarah Wilson,37,77067,lisa.miller@outlook.com,2019-08-22,HR,3,   trailing spaces   
+587,John Taylor,39,41161,emma.wilson@yahoo.com,2019-09-24,HR,4,⭐ Good performer ⭐
+797,Sarah Jones,57,62239,sarah.gupta@hotmail.com,2020-11-29,HR,4,Good employee
+673,Sarah Davis,52,88271,sarah.miller@outlook.com,,Mktg,5,--
+120,,42,92294,john.wilson@hotmail.com,,Marketing,4,   trailing spaces   
+54,Emma Wilson,thirty,53474,tom.wilson@gmail.com,2021-01-17,HR,4,Team player
+152,Tom Gupta,-7,34850,lisa.lee@outlook.com,2023-02-05,HR,2,Team player
+404,Lisa Gupta,61,81345,tom.gupta@hotmail.com,03-17-2019,HR,9,Needs improvement
+964,Lisa Lee,27,118785,anna.lee@outlook.com,2016-06-18,,6,--
+208,David Davis,39,43159,emma.jones@outlook.com,2020-11-13,Engineering,1,ok
+659,,30,30560,priya.jones@yahoo.com,24/12/2022,Finance,2,Good employee
+339,Priya Smith,26,80867,anna.khan@company.com,2016-07-29,Marketing,2,--
+779,Mike Jones,23,89546,chris.lee@company.com,2017-01-08,Engineering,2,Needs improvement
+9,Lisa Lee,58,92221,emma.lee@gmail.com,2020-12-17,Operations,4,Good employee
+825,Emma Wilson,62,79055,lisa.wilson@company.com,2022-11-03,Sales,3,ok
+37,Emma Khan,198,$56094,john.smith@outlook.com,2023-03-21,Finance,1,ok
+453,David Brown,50,97552,david.jones@yahoo.com,,HR,1,PROMOTION RECOMMENDED
+652,Mike Jones,36,74909,sarah.taylor@gmail.com,2016-04-01,Finance,2,Excellent performer!!!!
+254,Tom Jones,51,31352,anna.jones@hotmail.com,2015-02-09,Marketing,1,LATE COmiNG   
+304,Lisa Khan,23,30540,priya.davis@gmail.com,2024-01-12,Operations,3,  
+763,John Wilson,23,109079,mike.lee@hotmail.com,07/12/2016,HR,3,N/A
+572,LISA WILSON,25,109391,mike.khan@company.com,17/06/2023,Operations,2,Needs improvement
+624,sarah lee,24,32440,,2023-03-06,Marketing,3,ok
+859,SARAH WILSON,62,54987,lisa.brown@gmail.com,2020-06-24,IT,3,Needs training in Python and SQL
+759,John Miller,56,115420,emma.lee@yahoo.com,,operations,4,Good employee
+263,Mike Wilson,37,117921,john.khan@hotmail.com,2018-09-08,HR,1,   trailing spaces   
+611,David Jones,36,37667,anna.miller@gmail.com,2021-10-09,Sales,3,
+298,mike gupta,,42265,chris.miller@yahoo.com,2024-04-19,,,Needs improvement
+415,,35,85312,priya.miller@yahoo.com,06-26-2020,Finance,4,  
+151,Sarah Brown,46,85314,anna.davis@outlook.com,2016-10-14,IT,2,⭐ Good performer ⭐
+862,Priya Wilson,-5,31118,tom@@outlook.com,2022-08-20,IT,1,Needs improvement
+641,Sarah Smith,18,79827,tom.miller@gmail.com,2017-07-21,IT,5,
+907,Lisa Miller,45,$37530,priya.taylor,07/05/2019,HR,5,LATE COmiNG   
+551,Emma  Wilson,26,89694,emma.gupta@gmail.com,05-23-2020,Engineering,1,
+808,Priya Taylor,156,38569,david.brown@yahoo.com,2018-06-06,Operations,2,Communication issues
+489,Sarah Khan,55,116530,priya.jones@outlook.com,2021-07-01,Engineering,3,  
+711,Anna Davis,44,40722,lisa.smith@outlook.com,2015-08-24,HR,2,Communication issues
+148,Priya Taylor,28,33631,john.taylor@company.com,2020-03-04,Marketing,,Needs training in Python and SQL
+147,Emma Jones,19,44884,lisa.khan@yahoo.com,2017-09-17,Human Resources,,ok
+737,Chris Brown,thirty,68655,sarah.khan@gmail.com,2017-01-04,Operations,3,Excellent performer!!!!
+950,Tom Taylor,22,82342,chris.gupta@yahoo.com,2024-10-03,Sales,,⭐ Good performer ⭐
+756,Mike Davis,47,48045,tom.davis@gmail.com,2015-08-31,Engineering,1,⭐ Good performer ⭐
+660,Emma Brown,30,118172,david.jones@gmail.com,2024-10-31,Sales,5,  
+349,Priya Davis,44,114833,lisa.smith@yahoo.com,2017-11-26,HR,5,  
+464,LISA MILLER,45,95325,priya.khan@gmail.com,2019-08-28,Operations,5,N/A
+326,John Davis,26,79989,emma.smith@yahoo.com,2019-02-22,Sales,3,Communication issues
+187,Mike Jones,63,109405,john.miller@outlook.com,2016-08-29,Operations,4,Good employee
+124,Lisa Jones,32,86742,priya.jones@yahoo.com,2019-09-09,Marketing,3,N/A
+871,Chris Gupta,49,97610,tom.jones@hotmail.com,2020-10-23,Operations,,PROMOTION RECOMMENDED
+609,Mike Brown,29,37721,sarah.khan@gmail.com,2017-09-04,HR,5,Needs training in Python and SQL
+144,Anna Gupta,unknown,67623,lisa.jones@gmail.com,07/05/2015,Operations,2,Communication issues
+979,Anna Gupta,32,31908,lisa.smith@hotmail.com,2024-04-15,IT,2,Team player
+198,John Gupta,19,63493,emma.khan@gmail.com,2022-02-21,Marketing,4,⭐ Good performer ⭐
+610,Tom Taylor,62,72636,sarah.gupta@gmail.com,2022-07-18,Finance,5,--
+280,John Davis,23,86372,tom.davis@yahoo.com,08-07-2017,HR,4,   trailing spaces   
+294,Anna Taylor,29,-26636,priya.gupta@yahoo.com,2017-12-12,Marketing,3,Team player
+401,Anna Taylor,63,,david.brown@gmail.com,2017-06-08,it,2,Good employee
+123,Sarah Lee,38,96144,emma.smith@company.com,2019-04-20,Marketing,5,ok
+184,Mike Gupta,56,48993,sarah.jones@gmail.com,2020-01-19,Finance,4,--
+203,Priya Smith,61,34440,,2024-10-04,HR,1,N/A
+439,Mike Taylor,47,94713,mike.lee@hotmail.com,31/12/2023,Marketing,Average,Needs training in Python and SQL
+247,Tom Smith,45,54820,sarah.jones@yahoo.com,2023-10-06,Finance,3,  
+416,David Lee,57,102516,emma.lee@gmail.com,2019-01-07,Sales,3,Needs improvement
+793,John Jones,58,-48055,,2022-05-25,HR,3,Needs improvement
+782,Mike Gupta,26,60182,priya.khan@hotmail.com,2016-09-27,Engineering,1,Needs training in Python and SQL
+924,Priya Davis,37,104609,priya.brown@yahoo.com,2024-11-21,IT,1,ok
+785,Lisa Khan,,79271,priya.lee@company.com,2019-05-12,Operations,1,Excellent performer!!!!
+905,John Smith,36,60544,tom.gupta@company.com,2015-01-25,Operations,1,PROMOTION RECOMMENDED
+130,Priya Miller,27,97662,anna.wilson@outlook.com,2019-08-02,HR,5,Needs training in Python and SQL
+638,Priya Lee,49,,mike.taylor@gmail.com,2024-08-09,Marketing,1,Excellent performer!!!!
+403,John Khan,,104636,david.brown@yahoo.com,12-06-2019,Finance,3,Needs improvement
+801,Tom Taylor,21,47988,lisa.wilson@hotmail.com,2018-08-05,HR,4,Good employee
+787,CHRIS LEE,54,30881,david.gupta@hotmail.com,2015-09-26,Marketing,2,ok
+736,Lisa Khan,25,37312,lisa.jones@gmail.com,2021-09-29,Engineering,4,
+931,Emma Taylor,44,53537,,01-10-2022,Marketing,1,Communication issues
+220,Sarah Jones,27,115089,tom.khan@hotmail.com,2021-05-21,HR,3,--
+642,Tom Miller,62,112864,david.jones,2018-06-06,Sales,5,PROMOTION RECOMMENDED
+933,TOM DAVIS,19,116386,chris.brown@company.com,2019-09-08,Engineering,,Good employee
+853,Lisa Smith,21,59850,chris.wilson@hotmail.com,2022-01-10,HR,10,Excellent performer!!!!
+824,Priya Khan,41,114550,emma.miller@gmail.com,2020-09-14,Finance,5,Good employee
+938,ANNA LEE,34,117380,sarah.lee@hotmail.com,12-10-2020,,2,⭐ Good performer ⭐
+625,Sarah Lee,45,106830,mike.gupta@hotmail.com,2024-12-28,Sales,5,LATE COmiNG   
+856,Tom Khan,28,55774,sarah.gupta@yahoo.com,09-25-2022,Engineering,4,Team player
+951,John Brown,58,81992,,2015-07-28,Operations,6,Team player
+387,Priya Lee,37,"47,709",chris.gupta@gmail.com,2017-03-31,,3,N/A
+993,David Miller,56,,anna.smith@company.com,04-10-2019,Marketing,4,Needs training in Python and SQL
+510,Tom Davis,26,42166,mike.lee@hotmail.com,08/08/2024,IT,5,Excellent performer!!!!
+268,Lisa Lee,59,81733,david.smith@yahoo.com,2021-04-17,IT,2,LATE COmiNG   
+837,Tom Jones,26,79034,lisa.davis@hotmail.com,2016-12-26,HR,2,Needs improvement
+442,Sarah Smith,32,64184,tom.brown@hotmail.com,2024-03-26,IT,3,N/A
+497,Lisa Wilson,33,31035,tom.smith@outlook.com,2021-06-01,Marketing,4,Communication issues
+113,Tom Wilson,21,64754,emma.taylor@gmail.com,2020-08-19,HR,,Excellent performer!!!!
+692,Priya Smith,26,98561,anna.jones@gmail.com,10/10/2022,HR,4,Needs training in Python and SQL
+233,Mike Miller,,52119,sarah.smith@hotmail.com,2017-09-29,Sales,1,Excellent performer!!!!
+887,Emma Miller,56,106933,sarah.khan@hotmail.com,2018-12-05,Engineering,10,
+608,,59,83382,sarah.jones@gmail.com,2016-04-26,Marketing,4,LATE COmiNG   
+672,Sarah Davis,47,78559,priya.lee@gmail.com,2018-01-26,Marketing,2,N/A
+374,Anna Wilson,39,109174,priya.davis,2018-09-15,Sales,1,Excellent performer!!!!
+200,David Gupta,39,51001,priya.miller@yahoo.com,2018-05-25,Finance,1,N/A
+860,Lisa Davis,27,48070,mike@@yahoo.com,08/01/2021,IT,5,Excellent performer!!!!
+234,Lisa Khan,unknown,-9499,david.taylor@yahoo.com,2023-04-17,operations,1,Communication issues
+802,SARAH MILLER,61,44544,chris.jones@company.com,07-25-2023,HR,5,Needs improvement
+677,Emma Brown,19,110405,lisa.miller@hotmail.com,2015-02-20,Marketing,3,Needs training in Python and SQL
+318,Lisa Jones,53,73178,chris.khan@hotmail.com,2023-02-02,Operations,5,   trailing spaces   
+649,Chris Davis,52,86618,mike.miller@outlook.com,2024-01-14,Engineering,5,Needs training in Python and SQL
+411,DAVID SMITH,30,97286,tom.wilson@outlook.com,12-18-2016,Marketing,3,--
+916,emma davis,,109129,sarah.davis@company.com,2017-08-31,Sales,1,--
+710,Anna Jones,35,,david.smith,,HR,3,Needs training in Python and SQL
+359,LISA LEE,19,85694,sarah.davis@hotmail.com,2024-10-16,Sales,4,N/A
+259,Anna Lee,20,42488,chris.khan@gmail.com,2021-11-21,Sales,2,Needs improvement
+745,Anna Brown,32,115317,emma.davis@outlook.com,11-07-2018,IT,5,Excellent performer!!!!
+628,Mike Lee,24,69926,chris.miller@outlook.com,2017-10-15,Engineering,5,Communication issues
+633,,18,100455,priya.brown@outlook.com,2021-04-06,Engineering,4,LATE COmiNG   
+283,Priya Gupta,42,87117,mike.wilson@gmail.com,2016-02-26,Finance,1,Good employee
+377,Chris Gupta,19,,mike.jones@outlook.com,2022-10-07,Operations,5,   trailing spaces   
+385,Sarah Miller,49,118487,tom.jones@yahoo.com,2023-08-11,Sales,1,   trailing spaces   
+225,Lisa Smith,35,66935,anna.jones@hotmail.com,2019-01-29,Operations,1,  
+974,Priya Lee,46,-49695,mike.davis@hotmail.com,2019-01-01,HR,,  
+966,Sarah Taylor,53,58399,lisa.lee@company.com,2023-07-24,Operations,2,⭐ Good performer ⭐
+473,Priya  Gupta,143,64867,david.miller@gmail.com,2023-05-25,Sales,3,Good employee
+348,Emma Brown,31,94922,sarah.jones@gmail.com,2022-08-07,Engineering,1,  
+506,Priya Miller,60,41046,emma.davis@outlook.com,2017-02-02,Finance,3,   trailing spaces   
+640,ANNA BROWN,22,62884,emma.jones@yahoo.com,2023-04-19,Operations,4,⭐ Good performer ⭐
+333,David Wilson,48,86670,tom.brown@yahoo.com,2021-06-09,HR,1,LATE COmiNG   
+798,David Khan,31,32817,sarah.brown@company.com,2022-11-16,Sales,5,Excellent performer!!!!
+947,Tom Taylor,44,-48250,david.taylor@yahoo.com,2020-04-10,IT,2,ok
+923,Sarah Jones,-6,62353,chris.jones@gmail.com,2019-05-11,Sales,2,--
+620,Lisa Smith,34,65296,sarah.gupta@hotmail.com,2015-04-16,Marketing,5,
+873,lisa khan,27,90476,mike.taylor@hotmail.com,2016-04-01,IT,5,Needs training in Python and SQL
+821,David Smith,48,40670,sarah.davis@hotmail.com,03/04/2024,Finance,3,Communication issues
+646,Tom Brown,37,$41759,anna.miller@yahoo.com,2023-06-26,Engineering,2,Needs training in Python and SQL
+864,Tom Wilson,29,82928,anna.wilson,2021-01-05,Engineering,2,Good employee
+557,Sarah Brown,65,35279,chris.wilson@hotmail.com,2015-10-16,Engineering,1,Needs improvement
+978,Mike Davis,,32102,emma.brown@outlook.com,2018-07-16,HR,1,Needs improvement
+578,Sarah Jones,51,83690,john.smith@company.com,2022-12-17,Engineering,2,  
+796,Priya Lee,35,74540,anna.wilson@gmail.com,2022-06-10,Operations,3,N/A
+86,Mike Lee,65,106541,chris.smith@yahoo.com,2021-04-18,IT,3,Team player
+243,Sarah Davis,31,94771,sarah.smith@outlook.com,2015-09-07,Sales,,Communication issues
+699,Tom Taylor,33,,sarah.taylor@yahoo.com,2018-07-08,Engineering,1,Excellent performer!!!!
+160,,25,41000,mike.khan@yahoo.com,09-16-2023,Operations,3,Needs improvement
+525,Lisa Gupta,48,106230,mike.wilson@outlook.com,2024-06-02,Engineering,4,Good employee
+36,john davis,64,52114,anna.taylor@yahoo.com,2024-04-04,Engineering,,N/A
+541,anna lee,36,81744,emma.wilson@hotmail.com,2019-06-30,HR,,  
+171,David Gupta,34,46027,lisa@@outlook.com,12-11-2017,Engineering,2,Needs improvement
+655,LISA LEE,37,74778,chris.gupta@yahoo.com,2018-04-28,Marketing,4,Excellent performer!!!!
+908,David Wilson,44,31447,david.brown@hotmail.com,2016-05-05,Finance,3,Communication issues
+875,Priya Lee,50,54621,chris.gupta@yahoo.com,2015-12-09,Operations,2,ok
+865,Anna Gupta,63,106015,lisa.brown@gmail.com,2024-08-05,Marketing,1,Communication issues
+963,Priya Miller,28,118000,mike.smith@hotmail.com,2017-10-03,IT,5,--
+734,John Lee,29,-9975,david.wilson@gmail.com,22/08/2019,Operations,3,Needs training in Python and SQL
+96,Mike Gupta,62,32583,tom.miller@outlook.com,2018-03-08,Engineering,3,PROMOTION RECOMMENDED
+564,Sarah Gupta,56,58256,emma.miller@gmail.com,2015-02-14,Finance,4,  
+241,Sarah Khan,44,56626,priya.jones@hotmail.com,2015-09-18,IT,1,Good employee
+743,Tom Khan,33,86112,mike.davis@gmail.com,2019-07-28,Finance,3,   trailing spaces   
+575,Mike Lee,52,117453,,2024-12-29,it,4,--
+691,John Wilson,61,104698,emma.wilson@yahoo.com,2019-01-02,Engineering,5,   trailing spaces   
+461,Emma Khan,42,56920,mike.wilson@gmail.com,2016-01-13,HR,2,LATE COmiNG   
+554,Tom Brown,34,45566,david.taylor@outlook.com,2016-10-15,Operations,2,ok
+896,MIKE JONES,60,44239,tom.davis@outlook.com,2020-12-04,Finance,5,  
+207,Anna Smith,37,73610,,2024-07-24,Engineering,5,N/A
+393,Anna Khan,27,87119,emma.davis@outlook.com,2015-04-18,Sales,2,   trailing spaces   
+795,Lisa Smith,36,64340,priya.miller@hotmail.com,2024-07-04,Engg,3,LATE COmiNG   
+398,David Wilson,51,49978,mike.jones@yahoo.com,2022-05-19,Finance,1,Needs improvement
+767,Emma Davis,64,61114,mike.smith@hotmail.com,30/08/2022,Engineering,4,Communication issues
+866,Sarah Brown,-5,31558,priya.lee@hotmail.com,2016-03-20,Sales,5,Needs improvement
+218,,198,40778,david.jones@hotmail.com,2016-05-04,Operations,1,  
+5,John Brown,27,52514,priya.lee@hotmail.com,2020-04-23,Sales,3,Needs improvement
+769,Emma  Gupta,45,85320,sarah.brown@outlook.com,2016-12-25,Operations,4,
+643,Lisa Taylor,48,96889,,02-05-2023,Finance,5,Team player
+915,Mike Gupta,23,117135,emma.smith@outlook.com,2020-01-16,Sales,3,
+613,,35,84109,emma.khan@company.com,2015-06-13,HR,3,Good employee
+739,Emma Davis,44,"83,884",tom.jones@hotmail.com,2020-07-20,Operations,3,PROMOTION RECOMMENDED
+547,Anna Lee,54,93539,mike.smith@hotmail.com,2022-06-29,IT,3,  
+726,Emma Gupta,48,108638,john.lee@gmail.com,2019-07-26,Marketing,2,Needs training in Python and SQL
+684,Emma Miller,22,66352,sarah.lee@company.com,2021-06-15,Operations,3,
+99,David Taylor,27,85203,priya@@yahoo.com,2016-06-23,IT,9,PROMOTION RECOMMENDED
+805,Priya Gupta,20,78804,john.smith@yahoo.com,2020-07-01,Finance,4,Good employee
+728,Lisa Khan,20,105882,anna.brown@company.com,2021-07-31,Sales,2,Needs training in Python and SQL
+574,Tom  Jones,37,90415,david.smith@hotmail.com,2015-06-17,Marketing,5,Excellent performer!!!!
+407,Emma Wilson,60,94972,priya.taylor@gmail.com,2015-07-21,Sales,4,N/A
+503,Tom Wilson,30,75252,sarah.davis@outlook.com,2016-04-27,Engineering,1,   trailing spaces   
+48,priya khan,20,44160,sarah.miller@hotmail.com,2017-11-18,Sales,4,N/A
+33,Tom Davis,29,41141,chris.brown@company.com,2019-11-01,Finance,1,Good employee
+780,Mike Jones,18,35530,sarah.taylor@company.com,2016-11-16,IT,2,   trailing spaces   
+840,chris khan,,98002,anna.smith@yahoo.com,2016-09-30,IT,5,Communication issues
+201,Anna Jones,60,112752,chris.smith@hotmail.com,02-19-2015,Sales,3,N/A
+135,Emma Wilson,62,110533,priya.gupta@company.com,,Marketing,2,⭐ Good performer ⭐
+28,Sarah Davis,51,92347,lisa@@hotmail.com,03-17-2023,Engineering,5,N/A
+948,Tom Wilson,40,$118555,david.gupta@company.com,04-25-2022,Mktg,1,--
+231,David Brown,56,59977,tom.smith@company.com,2023-12-13,Sales,3,  
+490,Emma Jones,,49785,tom.miller@company.com,2024-07-16,Operations,3,Good employee
+773,Sarah Brown,20,92354,john.jones@company.com,2019-12-29,Finance,5,Excellent performer!!!!
+379,Lisa Khan,28,92537,priya.brown@hotmail.com,2019-07-03,Finance,Poor,N/A
+289,Mike Davis,27,-40260,john.brown@yahoo.com,2022-06-06,Engineering,2,Needs improvement
+419,,35,111618,anna.miller@hotmail.com,2023-12-20,Finance,5,N/A
+675,Tom Brown,22,66848,david.smith@gmail.com,2017-07-14,Finance,3,N/A
+392,John Brown,48,49025,chris.brown@hotmail.com,06-17-2018,Engineering,1,  
+593,Tom Khan,61,99711,tom.miller@hotmail.com,2024-05-18,Operations,1,ok
+499,Chris Jones,38,49249,sarah.miller,2022-01-19,Operations,4,LATE COmiNG   
+139,Emma Taylor,53,49365,john.miller@outlook.com,2020-02-19,Engineering,Good,N/A
+63,Sarah  Miller,24,100848,mike.jones@company.com,2018-01-21,Sales,,   trailing spaces   
+472,Mike Smith,43,96194,tom.taylor@company.com,2016-01-30,Engineering,2,Excellent performer!!!!
+648,Lisa Gupta,59,102938,anna.gupta@company.com,2020-06-11,Marketing,1,  
+129,Sarah Wilson,36,32438,,2021-09-21,Finance,4,Needs improvement
+997,Mike Smith,65,115189,john.brown@company.com,2019-12-12,Finance,2,
+521,Chris Khan,52,115322,david.gupta@yahoo.com,2015-12-06,Sales,4,N/A
+839,David Taylor,59,41013,chris.jones@outlook.com,2024-05-24,HR,6,N/A
+983,Chris Lee,23,117046,mike.miller@company.com,2024-11-15,Operations,1,LATE COmiNG   
+65,Chris Smith,30,45615,john.lee,,Finance,3,
+813,Chris Khan,62,62053,priya.miller@outlook.com,2016-01-01,Operations,5,  
+15,John Davis,40,44790,david.smith@yahoo.com,2020-02-07,Marketing,1,Team player
+157,Priya Wilson,27,35535,priya.miller@gmail.com,2015-10-16,Finance,1,Excellent performer!!!!
+41,Sarah Taylor,38,66505,sarah.miller@outlook.com,02-12-2023,Engineering,2,Communication issues
+493,PRIYA MILLER,200,68761,sarah.gupta@yahoo.com,2017-01-16,Operations,2,Needs training in Python and SQL
+380,Chris  Miller,42,83096,priya.davis@company.com,2015-01-27,HR,3,Excellent performer!!!!
+188,Tom Jones,,,mike.gupta@hotmail.com,2015-04-17,Engineering,2,Team player
+764,Priya Lee,51,78343,emma.brown@hotmail.com,2021-12-18,IT,5,N/A
+217,Anna Wilson,38,70048,john.brown@yahoo.com,2023-09-22,IT,2,Team player
+792,Anna Smith,63,77174,chris.khan@yahoo.com,21/05/2020,Marketing,2,Excellent performer!!!!
+53,Chris Davis,63,95291,lisa.brown@company.com,2018-05-26,IT,7,Good employee
+879,,54,105695,lisa.lee@yahoo.com,2019-12-16,HR,4,LATE COmiNG   
+338,Mike Jones,57,94175,,2018-04-08,IT,2,  
+749,Tom Miller,42,108010,emma.lee@outlook.com,2017-01-25,HR,1,Needs improvement
+720,David Jones,57,112090,priya.miller@gmail.com,2016-06-30,Operations,,LATE COmiNG   
+725,David Miller,27,61030,lisa.gupta@outlook.com,2024-10-27,Sales,1,ok
+296,John Davis,18,94616,david.khan,2019-02-27,Sales,3,   trailing spaces   
+702,Anna Smith,28,72336,mike.smith@yahoo.com,2022-11-15,,3,
+252,David Smith,52,78449,john.brown@yahoo.com,11/08/2021,Engineering,1,ok
+727,PRIYA JONES,28,42539,priya.khan@company.com,01-19-2021,Finance,1,   trailing spaces   
+462,Lisa Wilson,156,50582,priya.lee@gmail.com,2015-09-29,Finance,5,--
+456,Emma Smith,22,44539,david.brown@gmail.com,2019-07-28,engineering,4,N/A
+235,Priya Smith,56,64099,anna.smith@outlook.com,2022-04-19,Marketing,1,   trailing spaces   
+816,chris jones,35,49472,anna.gupta@hotmail.com,2022-03-10,,4,--
+863,Lisa Miller,46,66942,chris.lee@yahoo.com,2022-10-17,HR,3,⭐ Good performer ⭐
+270,Priya Gupta,29,103342,,2023-06-27,Engineering,5,--
+202,David Smith,64,114466,anna.smith@company.com,2023-02-01,Operations,5,  
+162,DAVID LEE,,83347,priya.khan@outlook.com,2019-12-02,Sales,5,PROMOTION RECOMMENDED
+556,Lisa Wilson,29,78442,lisa.gupta@hotmail.com,2017-10-15,,9,  
+730,David Wilson,45,79465,mike.brown@outlook.com,2015-08-05,Sales,3,PROMOTION RECOMMENDED
+402,David Brown,25,61801,tom@@company.com,2015-04-22,Operations,3,Excellent performer!!!!
+703,Tom Jones,,83330,anna.jones@gmail.com,2021-03-19,IT,3,LATE COmiNG   
+477,Priya Khan,23,59908,tom.miller@yahoo.com,2017-07-12,IT,4,⭐ Good performer ⭐
+822,LISA KHAN,61,116966,anna.gupta@outlook.com,2019-11-12,Marketing,2,  
+772,Emma Gupta,44,74767,lisa.lee@outlook.com,2016-09-01,IT,2,--
+106,Tom Miller,64,95898,anna.davis@yahoo.com,2021-03-03,IT,4,Excellent performer!!!!
+566,David Davis,44,,lisa.davis@hotmail.com,2016-02-25,Sales,2,Good employee
+390,Anna Davis,30,54670,lisa.lee,2021-06-20,Sales,1,   trailing spaces   
+2,Chris  Jones,33,42989,sarah.lee@company.com,2016-04-19,Engineering,5,Excellent performer!!!!
+991,JOHN DAVIS,-6,43878,sarah.davis@hotmail.com,2019-12-28,Sales,5,Good employee
+34,Emma Jones,57,81748,david.gupta@company.com,2018-11-15,Operations,1,
+562,Lisa Gupta,20,107283,john.taylor@outlook.com,2019-12-22,Sales,4,   trailing spaces   
+932,Chris Smith,62,86633,tom.smith@gmail.com,2019-07-21,HR,2,Good employee
+81,,44,110863,john.davis@hotmail.com,2017-05-12,Engineering,3,N/A
+206,Mike Jones,27,84127,mike.miller@company.com,2022-03-22,IT,2,Needs training in Python and SQL
+35,EMMA SMITH,57,107405,priya.gupta@gmail.com,2022-09-23,IT,5,ok
+776,Lisa Gupta,43,104199,priya.khan@gmail.com,2016-05-07,Marketing,1,Needs improvement
+509,Anna Lee,49,100882,priya.miller@company.com,2022-06-09,Enginnering,9,Good employee
+428,PRIYA JONES,unknown,116108,sarah.gupta@outlook.com,2017-07-28,Sales,3,  
+455,Lisa Jones,38,87386,priya.jones@gmail.com,2023-03-30,Sales,1,Good employee
+367,emma brown,47,35932,mike.davis@company.com,2015-12-26,HR,1,Needs improvement
+92,Sarah Gupta,37,62455,david.taylor@company.com,2021-07-23,IT,1,N/A
+340,Lisa Gupta,49,103801,chris.wilson@yahoo.com,2015-10-06,Engineering,2,PROMOTION RECOMMENDED
+898,Priya Smith,45,69930,priya.gupta@yahoo.com,07-24-2018,Operations,,   trailing spaces   
+565,Chris Miller,27,94067,chris.gupta@outlook.com,2020-11-02,HR,4,Team player
+346,Lisa Jones,,118662,tom.miller@yahoo.com,2020-04-02,Sales,4,Needs training in Python and SQL
+777,Lisa Davis,62,110753,john.lee@outlook.com,2018-06-30,HR,2,Good employee
+242,Emma Miller,60,64891,anna.davis@company.com,2016-06-26,HR,5,ok
+14,Emma Davis,53,97403,john.khan@hotmail.com,2021-11-22,Engineering,3,⭐ Good performer ⭐
+316,Emma  Brown,57,112359,tom.lee@company.com,09-22-2017,Sales,1,--
+601,Lisa Khan,20,53659,sarah.davis@outlook.com,2021-04-15,Marketing,,Communication issues
+388,Chris Lee,37,,sarah@@hotmail.com,2021-06-10,sales,4,Excellent performer!!!!
+274,Mike Taylor,,47290,john.smith@company.com,2023-07-12,Finance,5,Needs improvement
+167,Sarah Miller,27,45812,david.brown@yahoo.com,2023-01-14,IT,5,Team player
+841,Emma Miller,19,106541,john.taylor@yahoo.com,10-05-2017,HR,5,LATE COmiNG   
+149,David Lee,57,70703,,2016-03-31,IT,1,
+647,Emma Khan,58,46118,priya.khan@yahoo.com,2017-12-20,HR,5,Needs training in Python and SQL
+819,Chris Smith,46,96619,anna.davis@yahoo.com,2019-04-26,IT,5,
+485,Chris Lee,37,41112,john.davis@yahoo.com,2020-10-30,HR,1,Communication issues
+651,Anna Khan,unknown,71720,,2016-11-21,Sales,,PROMOTION RECOMMENDED
+505,Anna  Jones,27,55859,lisa.miller@yahoo.com,2018-10-13,Sales,1,Needs improvement
+832,Chris Brown,27,57158,john.miller@gmail.com,,Operations,5,  
+244,MIKE GUPTA,186,86532,mike.davis@company.com,2017-09-26,Sales,3,Communication issues
+567,Priya Gupta,33,38855,david.wilson@yahoo.com,2021-09-17,Sales,1,Needs training in Python and SQL
+876,ANNA DAVIS,63,84747,chris.miller@hotmail.com,2024-01-17,IT,5,LATE COmiNG   
+563,,23,69998,tom.davis@yahoo.com,02-02-2018,IT,1,Excellent performer!!!!
+973,Chris Gupta,62,88194,john.jones@company.com,2018-07-07,HR,5,Team player
+687,David Lee,32,104148,chris.lee@gmail.com,2019-01-30,IT,1,Excellent performer!!!!
+958,David Davis,52,66587,lisa.davis@outlook.com,2023-05-14,Finance,4,Needs training in Python and SQL
+190,Chris Smith,49,118027,,2023-01-02,Sales,5,Communication issues
+783,John Jones,33,57936,tom.davis@yahoo.com,2018-10-13,Engineering,5,Needs training in Python and SQL
+700,David Davis,20,118224,chris.taylor@company.com,04-07-2024,Engineering,5,ok
+476,Mike Jones,59,99422,david.davis@outlook.com,2024-01-13,Operations,5,ok
+682,Priya Gupta,24,55701,tom.brown,2017-02-01,,2,   trailing spaces   
+511,Chris Brown,unknown,70927,lisa.brown@outlook.com,2020-10-27,Engineering,5,LATE COmiNG   
+59,John Khan,164,94512,chris.jones@hotmail.com,2022-09-22,Sales,2,Team player
+475,David Smith,42,117162,anna.miller@hotmail.com,2017-06-17,Marketing,3,PROMOTION RECOMMENDED
+561,Sarah Miller,29,,tom.taylor@yahoo.com,2022-07-16,HR,3,ok
+857,David Taylor,36,62771,john.miller@yahoo.com,2022-02-24,IT,2,Needs improvement
+748,Mike Gupta,57,44156,mike.miller@gmail.com,2017-10-29,Marketing,4,Needs training in Python and SQL
+253,LISA DAVIS,63,114834,david.khan@company.com,2020-06-18,Engineering,3,  
+22,John Jones,62,67173,priya@@outlook.com,2023-08-07,it,1,Excellent performer!!!!
+314,John Taylor,-4,,mike.brown@hotmail.com,2020-08-22,Sales,3,ok
+460,Anna Taylor,28,51895,tom.davis@hotmail.com,11-29-2018,Marketing,2,PROMOTION RECOMMENDED
+161,Priya Lee,48,69056,david.taylor,2020-12-27,Finance,5,
+277,Priya Davis,38,35788,tom.wilson@outlook.com,2022-02-25,Operations,5,Excellent performer!!!!
+956,david davis,35,"116,117",david.smith@gmail.com,,Finance,3,Needs training in Python and SQL
+192,Sarah Gupta,,113748,emma.khan@outlook.com,2022-02-09,Engineering,5,  
+386,John Lee,41,69669,anna.jones@company.com,2020-02-18,Marketing,1,Communication issues
+806,Priya Brown,29,99065,tom.taylor@yahoo.com,,Engineering,4,Good employee
+414,Mike Gupta,35,37956,emma.miller@outlook.com,2017-05-08,IT,1,  
+492,Anna Taylor,36,116554,anna.smith@company.com,2015-07-16,Sales,2,LATE COmiNG   
+344,Anna Taylor,30,42182,chris.lee@gmail.com,2020-01-01,IT,1,--
+770,Sarah Lee,55,56263,tom.miller@company.com,2022-12-03,IT,3,⭐ Good performer ⭐
+309,Lisa Jones,-8,,anna.davis@company.com,2024-05-03,Engineering,3,Excellent performer!!!!
+662,Sarah Khan,33,94091,emma.wilson@company.com,2023-01-11,Marketing,3,   trailing spaces   
+131,Anna Taylor,23,105608,tom.jones@hotmail.com,2018-08-24,Operations,3,LATE COmiNG   
+664,Mike Miller,59,"115,078",sarah.khan@outlook.com,2019-04-27,Operations,5,LATE COmiNG   
+872,Priya Wilson,47,102432,john.brown@outlook.com,2020-04-04,Marketing,5,⭐ Good performer ⭐
+100,Anna Taylor,47,91564,sarah.lee@company.com,2024-07-12,HR,2,ok
+373,John Wilson,,40252,mike.wilson@yahoo.com,2023-04-15,HR,4,Communication issues
+88,Lisa Gupta,43,74729,anna.brown@hotmail.com,2020-12-09,Operations,3,Communication issues
+459,John Taylor,57,35501,sarah.taylor,2016-10-09,Marketing,3,⭐ Good performer ⭐
+331,Chris Wilson,64,115729,sarah.taylor@gmail.com,2024-03-30,Sales,1,Excellent performer!!!!
+215,Lisa Jones,27,114030,emma.jones@yahoo.com,2018-06-20,sales,5,
+467,Emma Gupta,60,48058,mike.taylor@company.com,2022-02-21,Mktg,3,Needs improvement
+122,Emma Jones,-2,115398,david.brown@yahoo.com,2022-08-31,Sales,1,ok
+615,Anna Smith,38,45855,john.brown@yahoo.com,2020-03-02,Sales,2,Needs improvement
+21,Tom Lee,53,"94,711",mike.taylor@yahoo.com,2018-10-14,Engineering,2,Excellent performer!!!!
+701,Tom Khan,58,36797,emma.jones@company.com,2023-01-28,Operations,1,Excellent performer!!!!
+72,Emma Wilson,60,47627,lisa.davis@yahoo.com,2023-03-02,Sales,2,Needs training in Python and SQL
+107,Emma Gupta,N/A,117475,david.taylor@hotmail.com,2023-06-05,HR,5,Excellent performer!!!!
+271,Sarah Taylor,62,-38245,priya.davis@company.com,2020-06-20,IT,4,Good employee
+861,Priya Jones,25,101188,anna.lee@yahoo.com,2023-04-20,Finance,1,Good employee
+436,Tom Davis,47,46920,john.miller@gmail.com,,Human Resources,3,Excellent performer!!!!
+103,Tom Davis,34,42809,tom.miller@company.com,2017-01-01,HR,4,--
